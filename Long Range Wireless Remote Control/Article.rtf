@@ -1,0 +1,27 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;\f2\froman\fcharset0 Times-Italic;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue233;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c93333;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa321\partightenfactor0
+
+\f0\b\fs48 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Getting started with LoRa wireless presents new opportunities and new challenges. That means we need new tools.\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 \'a0\
+There are many benefits to the LoRa protocol, and other sites are doing a {\field{\*\fldinst{HYPERLINK "https://youtu.be/hMOwbNUpDQA"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 slightly better}} job of explaining LoRa (or a {\field{\*\fldinst{HYPERLINK "https://learn.adafruit.com/using-lorawan-and-the-things-network-with-circuitpython"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 great intro to LoRaWAN}}) all of the new details as the chips and products that use LoRa become more affordable.  If you\'92ve ever used 802.11 or WiFi in projects than run off wall power, you\'92ll appreciate how easy and reliable they are.  Even the Raspberry Pi series of boards have it native on many of their products, going back a few releases.  Pretty easy, right?  Type in your SSID, your network password, and you\'92re set.  There\'92s even documentation on how to get a Pi {\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/raspberry_pi/comments/5vns5e/raspberry_pi_3_connecting_to_wireless_8021x/"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 working with 802.1x}}.\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf0 Note:
+\f1\b0  If you just want the parts list for this project, go ahead and scroll to the end of the article - I\'92ve got links to everything.\
+The real problem with WiFi comes when you need to run your project off of batteries.  Without getting into weight or size constraints of batteries for big projects, even just having your project run for more than a few hours can be hard if you\'92re using WiFi.  WiFi is notoriously power hungry in the small scale circuit community, and the longer the range needed for your project to broadcast, the more power you need.  You may be able to turn the WiFi radio off, but then you\'92ve still got power-up and broadcast power spikes to deal with.\
+Enter {\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/LoRa"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 LoRa}}:  It\'92s been designed to be low power, run off batteries, and has exceptional range.  The catch?  Bandwidth!  LoRa is far too slow to transmit audio or video, but it\'92s great for sensor arrays.  {\field{\*\fldinst{HYPERLINK "https://www.adafruit.com/"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Adafruit}} is one company that sells their CircuitPython-enabled boards with radios embedded in.  This often means you can run everything you need off a single chip.  For the US market the 900Mhz boards is what you want, and the 433Mhz boards are certified for Europe.\
+So with that intro out of the way, you\'92ve caught up to me- I was sold on LoRa and wanted to get started.  I need two right?  Great- I went out and bought a pair of these and used Adafruit\'92s sample code.  How I needed to broadcast and listen to custom data.  I didn\'92t want to spam the LoRa frequencies since the range means you\'92re going well beyond your home or workshop, and LoRa has rules about how often you\'92re allowed to transmit.\
+Since I have some robotics projects in mind, I wanted to be able to control the robot from well beyond the range of WiFi, and have something that would easily work outdoors.  That\'92s where my project comes in.  You can see the full history of the build if you go back and look on my Instagram page here, but here\'92s the broad strokes:\
+I designed all of the project in Tinkercad, mostly because it\'92s still the fastest and most comfortable way for me to work through a design.  There are clearly limits, but I can move 
+\f2\i fast
+\f1\i0  in Tinkercad.  In the photo below you can see the first set of parts printed via my FDM printer, a Prusa MK3.\
+}

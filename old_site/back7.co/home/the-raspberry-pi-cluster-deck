@@ -1,0 +1,2032 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- jellyfish-rust-88n4 -->
+<base href="">
+<meta charset="utf-8" />
+<title>The Raspberry Pi Cluster Deck - Function With Some Form Too &mdash; BACK7</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568316735339-COC29A997WQ40VXC1L55/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://back7.co/home/the-raspberry-pi-cluster-deck"/>
+<meta property="og:site_name" content="BACK7"/>
+<meta property="og:title" content="The Raspberry Pi Cluster Deck - Function With Some Form Too &mdash; BACK7"/>
+<meta property="og:latitude" content="40.7207559"/>
+<meta property="og:longitude" content="-74.0007613"/>
+<meta property="og:locality" content=""/>
+<meta property="og:url" content="https://back7.co/home/the-raspberry-pi-cluster-deck"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Over the past year I’ve really focused on the idea of the Cyberdeck- while I’m one of many different makers in the space, I always had an industrial and retro-futuristic approach to the builds.  I recently started to get involve with the Millix.org cryptocurrency, and while this project is not spons"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5f8b36c86dd4bd5269891b7c/1603045535493/JAY02562.jpg?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="1000"/>
+<meta itemprop="name" content="The Raspberry Pi Cluster Deck - Function With Some Form Too — BACK7"/>
+<meta itemprop="url" content="https://back7.co/home/the-raspberry-pi-cluster-deck"/>
+<meta itemprop="description" content="Over the past year I’ve really focused on the idea of the Cyberdeck- while I’m one of many different makers in the space, I always had an industrial and retro-futuristic approach to the builds.  I recently started to get involve with the Millix.org cryptocurrency, and while this project is not spons"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5f8b36c86dd4bd5269891b7c/1603045535493/JAY02562.jpg?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5f8b36c86dd4bd5269891b7c/1603045535493/JAY02562.jpg?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5f8b36c86dd4bd5269891b7c/1603045535493/JAY02562.jpg?format=1500w"/>
+<meta itemprop="author" content="Jay Doscher"/>
+<meta itemprop="datePublished" content="2020-10-17T16:22:03-0700"/>
+<meta itemprop="dateModified" content="2020-10-18T11:25:35-0700"/>
+<meta itemprop="headline" content="The Raspberry Pi Cluster Deck - Function With Some Form Too"/>
+<meta itemprop="publisher" content="BACK7"/>
+<meta name="twitter:title" content="The Raspberry Pi Cluster Deck - Function With Some Form Too — BACK7"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5f8b36c86dd4bd5269891b7c/1603045535493/JAY02562.jpg?format=1500w"/>
+<meta name="twitter:url" content="https://back7.co/home/the-raspberry-pi-cluster-deck"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Over the past year I’ve really focused on the idea of the Cyberdeck- while I’m one of many different makers in the space, I always had an industrial and retro-futuristic approach to the builds.  I recently started to get involve with the Millix.org cryptocurrency, and while this project is not spons"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/7tIIyZzCMxONmcUcXeUY8ISx0CBRUHINkQfnZcxHncbfe0jgfFHN4UJLFRbh52jhWDmRjAIXjAsK5QJXF2BKZQIkwcZRZABqFg7sMPG0-cmCdY8c-WFGOW4uSabl52y0FfoDSWmyScmDSeBRZPoRdhXCjcBR-DS0jhvC-cmCdY8c-WFGOW4uSabl52y0FfoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOYiaikoKjAFnFkoRdkUaiaS0-cmCdY8c-WFGOW4uSabl52y0FfoDSWmyScmDSeBRZPoRdhXK2cUXjkuKdhszdcqlwQSuH6qJxkCbMg6IJMJ7fbRrHUMMeMt6MTMgyOn7E39.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-803eb1b24e5b66378fb9f-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-803eb1b24e5b66378fb9f-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-13ea7a8552a69cc61c748-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-13ea7a8552a69cc61c748-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-69a1973260902ba7c9d1d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-69a1973260902ba7c9d1d-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-c5fbc3f5d4c14a3ee3b22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-c5fbc3f5d4c14a3ee3b22-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d3d137c2757e894533d46-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d3d137c2757e894533d46-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-126e3a849024f3014d9ec-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-126e3a849024f3014d9ec-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-cbf892d9da6f73bb0331c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-cbf892d9da6f73bb0331c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-5731ef3af387cd419fcfe-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-5731ef3af387cd419fcfe-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-263b970e8eec579b133f4-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-263b970e8eec579b133f4-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-a352d2bb01b07a1e65146-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-a352d2bb01b07a1e65146-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49713611b31c3a7027d37-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-23d33c1e0bb90f0f6446f-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-d01794933983df412448b-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-9935609888c4600d800d5-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-0ac30ee6f0a1595720424-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-55862de0a18a9270889af-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-8859d3fb8d85a389d38d9-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-804cfe707d920f9acd56a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-333a2b6646af932cdb099-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-dac2fe6aa92adc937d97b-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-a4d72fc510f4a01b65682-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-481c24735d3230e1bf8b6-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-6c9a2ebe8e3d336f8c820-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d6415a652c76837b8f512-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-0d2c8feaa5d7ecd445ef1-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-12cef83c73820e62b1d6a-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-ee834b7cdcccb1ef05194-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-eff70f71dd8b87ecf79fc-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-62448b2f62d89859228c6-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-558d788b0df538c248e23-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-dfd5782f5ccd1af0f742b-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-10714fd165f0956c133ad-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-1378e0d5a0b7c22873fb7-min.en-US.js"}},"pageType":50,"website":{"id":"5caa4adb92441be122fcead4","identifier":"jellyfish-rust-88n4","websiteType":4,"contentModifiedOn":1646433621766,"cloneable":false,"hasBeenCloneable":false,"developerMode":true,"siteStatus":{},"language":"en-US","timeZone":"US/Pacific","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"BACK7","fullSiteTitle":"The Raspberry Pi Cluster Deck - Function With Some Form Too \u2014 BACK7","siteDescription":"","location":{"addressLine1":"","addressLine2":"California","addressCountry":"United States"},"socialLogoImageId":"5d7a9d80807d844a6523dacc","shareButtonOptions":{"2":true,"1":true,"4":true,"3":true,"6":true},"socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568316800492-LVEKEQE1L11L2RALACIE/Back7+Logo.jpg","authenticUrl":"https://back7.co","internalUrl":"https://jellyfish-rust-88n4.squarespace.com","baseUrl":"https://back7.co","primaryDomain":"back7.co","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":64,"screenname":"Instagram","addedOn":1568574670251,"profileUrl":"https://www.instagram.com/back7.co/","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"e1faeddddfdfa83540991ac9bf620f209bea07fa536428c94a78ebcc1c367bb7","captchaSettings":{"siteKey":"6Lczt8UUAAAAAHEH8xFVcKWCjYwRS38-9BPb1WWf","enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5caa4adb92441be122fcead6","websiteId":"5caa4adb92441be122fcead4","subjects":[],"country":"US","state":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"store","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":true,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","AUD","CAD","CHF","CZK","DKK","EUR","GBP","HKD","ILS","MXN","MYR","NOK","NZD","PHP","PLN","RUB","SEK","SGD","THB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"mailingListDescription":"Sign up to receive news and updates. We won\u2019t sell your info, ever.","sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":true,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively.","cookieBannerTheme":"DARK","cookieBannerVariant":"BAR","cookieBannerPosition":"BOTTOM","cookieBannerCtaVariant":"ICON","cookieBannerCtaText":"OK","cookieBannerAcceptType":"OPT_IN"},"websiteCloneable":false,"collection":{"title":"Build Log","id":"5d7a9da8eb857f5277e8f2d6","fullUrl":"/home","type":1,"permissionType":1},"item":{"title":"The Raspberry Pi Cluster Deck - Function With Some Form Too","id":"5f8b36c86dd4bd5269891b7c","fullUrl":"/home/the-raspberry-pi-cluster-deck","publicCommentCount":2,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"Circular","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Thumbnails","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(255,255,255,1)","galleryArrowColor":"rgba(0,0,0,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(255,255,255,0.7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","maxNumberColumns":"4","minColumnWidth":"400","tweak-blog-list-grid-alignment":"Top","tweak-blog-list-grid-narrow-columns":"false","tweak-blog-list-max-width":"Full","tweak-crop-images":"Vertical","tweak-infinite-scroll":"true","tweak-product-item-image-zoom-factor":"2.5","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"4","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-show-progress-indicator":"true","tweak-user-account-link-position":"With Nav"},"templateId":"5de5717d83bec649d34ab8e3","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5caa4adb92441be122fcead4/0/scripts/","betaFeatureFlags":["customer_account_creation_recaptcha","campaigns_blog_product_image_editor","commerce_site_visitor_metrics","campaigns_thumbnail_layout","campaigns_hide_deleted_automations_panel","viewer-role-contributor-invites","reduce_general_search_api_traffic","startup_checklist","member_areas_schedule_interview","campaigns_alt_text","commerce_etsy_product_import","background_art_onboarding","nested_categories_migration_enabled","commerce_restock_notifications","campaigns_banner_reduce_size","commerce_afterpay_pdp","campaigns_section_reorder_arrows","member_areas_spanish_interviews","category-delete-product-service-enabled","campaigns_new_subscriber_search","commerce_etsy_shipping_import","campaigns_global_uc_ab","campaigns_content_editing_survey","commerce_clearpay","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","commerce_category_id_discounts_enabled","commerce_pdp_layouts_ga","product_composer_feedback_form_on_save","campaigns_audience_card"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://back7.co/home?format=rss" />
+<script type="application/ld+json">{"url":"https://back7.co","name":"BACK7","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"address":"California\nUnited States","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><script type="application/ld+json">{"name":"The Raspberry Pi Cluster Deck - Function With Some Form Too \u2014 BACK7","url":"https://back7.co/home/the-raspberry-pi-cluster-deck","datePublished":"2020-10-17T16:22:03-0700","dateModified":"2020-10-18T11:25:35-0700","headline":"The Raspberry Pi Cluster Deck - Function With Some Form Too","author":"Jay Doscher","publisher":{"name":"BACK7","logo":{"@type":"ImageObject"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5f8b36c86dd4bd5269891b7c/1603045535493/JAY02562.jpg?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5caa4adb92441be122fcead4/46/5de5717d83bec649d34ab8e3/5de5717d83bec649d34ab8f7/0/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-104394574-1');</script><!-- End of Squarespace Headers -->
+  <script>
+    (function(){
+      var touchTest = 'ontouchstart' in window || navigator.msMaxTouchPoints;
+      if (!touchTest) {
+        document.documentElement.className = document.documentElement.className.replace(/touch\-styles/g, '');
+      }
+    })();</script>
+  </head>
+  <body id="item-5f8b36c86dd4bd5269891b7c" class="tweak-header-background-color-on tweak-main-blocks-full-bleed  tweak-ui-icon-weight-light tweak-navigation-link-spacing-medium  tweak-site-branding-borders-bottom  tweak-site-branding-layout-inline tweak-show-search-in-header tweak-show-social-in-header tweak-user-account-link-position-with-nav tweak-quote-block-alignment-left tweak-blog-list-grid-alignment-top tweak-blog-list-max-width-full  tweak-crop-images-vertical    tweak-infinite-scroll  tweak-blog-text-alignment-center tweak-blog-promoted-meta-categories tweak-blog-date-style-above-title tweak-blog-show-divider tweak-show-blog-item-banner-image tweak-blog-item-banner-image-width-normal tweak-show-blog-item-sidebar tweak-show-blog-item-author-profile-in-sidebar tweak-show-progress-indicator tweak-template-social-icon-style-regular     event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address  event-list-like-and-share-buttons  event-like-and-share-buttons event-excerpts event-list-cta-button event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-thumbnails gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-circular gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-top tweak-product-list-filter-alignment-left tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-slideshow tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-rounded tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-solid tweak-product-item-details-add-to-cart-button-shape-rounded tweak-product-item-details-add-to-cart-button-padding-small tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-rectangle tweak-product-badge-position-top-left tweak-product-badge-inset-floating newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-rounded medium-button-style-solid medium-button-shape-rounded large-button-style-solid large-button-shape-rounded image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show tweak-share-buttons-labels-show tweak-share-buttons-counts-show  tweak-share-buttons-standard-background-color native-currency-code-usd collection-5d7a9da8eb857f5277e8f2d6 view-item collection-type-blog collection-layout-default mobile-style-available" data-controller="SyncHeader, AddScrollingClass, HeaderScroll, BodyMinHeight">
+    <div class="nav-close-overlay">
+
+    </div>
+    <div class="nav-close-toggle-wrapper" id="navCloseToggleWrapper">
+      <a class="nav-toggle-close-label responsive-position--left" id="navCloseToggle" data-controller="NavToggle">
+        <svg class="Icon Icon--close close-icon" viewBox="0 0 18 18">
+          <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+        </svg>
+      </a>
+    </div>
+    <div id="sideTrayWrapper" class="sidetray-wrapper">
+      <div class="main-nav-wrapper responsive-padding--top responsive-padding--bottom" data-controller="NavOverflow">
+        <div class="nav-blocks-wrapper">
+          
+<nav id="mainNavigation" class="main-navigation" role="navigation" data-content-field="navigation">
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection nav-link--homepage" id="id-61ccf762476ad24119685085">
+          <a href="/">
+            <span>Home</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-61ccf2908052743bdfa2c6c4">
+          <a href="/services">
+            <span>Services</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection nav-link--active" id="id-5d7a9da8eb857f5277e8f2d6">
+          <a href="/home">
+            <span>Build Log</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5e07e352e3302c0f49b4e4cf">
+          <a href="/store">
+            <span>Store</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5d929570ae6a5a3a7f7895cf">
+          <a href="/post">
+            <span>Archive</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5d82a0111542f64066861cf7">
+          <a href="/about">
+            <span>About</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5d82a0fa04c37d60a63949fe">
+          <a href="/contact">
+            <span>Contact</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+  
+</nav>
+
+
+          <div class="sqs-layout sqs-grid-1 columns-1 empty" data-layout-label="Nav Blocks" data-type="block-field" data-updated-on="1455207263820" id="navBlocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"></div></div></div>
+        </div>
+      </div><!--
+      --><div class="sidetray-blocks responsive-padding--top responsive-padding--bottom" data-controller="SidetrayBlocksOverflow">
+        <div class="sidetray-blocks-wrapper">
+          <div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Sidetray Blocks" data-type="block-field" data-updated-on="1640823533628" id="sideTrayBlocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-afaf45966693fd6837ff"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:557px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:97.8456039428711%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568840220914-JUMWDD1YYPGSM0WBARVK/Back7+Logo.jpg" alt="Back7 Logo.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568840220914-JUMWDD1YYPGSM0WBARVK/Back7+Logo.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568840220914-JUMWDD1YYPGSM0WBARVK/Back7+Logo.jpg" data-image-dimensions="557x545" data-image-focal-point="0.5,0.5" alt="Back7 Logo.jpg" data-load="false" data-image-id="5d829a1caef68661e4619953" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_11_1454611709348_3786"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Welcome to back7.co</h2><p style="text-align:center;white-space:pre-wrap;" class="">All images are copyright back7 LLC unless specifically licensed otherwise.  Please contact licensing@back7.co for permission to re-post any assets shown on this site.</p></div></div><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_7_1454631551971_9407"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-medium social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+        </div>
+      </div>
+    </div>
+
+    <form class="header-search-form" id="headerSearch" action="/search" method="get">
+      <input class="header-search-form-input" name="q" placeholder="Search" type="text" spellcheck="false" value="" autocomplete="off">
+    </form>
+
+    
+    
+    <div class="mobile-social">
+      <nav class="sqs-template-social-icons sqs-svg-icon--list" data-content-field="connected-accounts">
+        
+
+
+  <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+      </nav>
+    </div>
+    
+    
+
+    <div id="site" class="site-container clearfix">
+
+      <div class="sqs-announcement-bar-dropzone header-announcement-wrapper responsive-padding--left responsive-padding--right" id="headerAnnouncementWrapper">
+        <header id="header" class="site-header loading" role="banner">
+          <a class="nav-toggle-label flex-item" id="navToggle" data-controller="NavToggle">
+            <svg class="Icon Icon--hamburger nav-toggle-label-icon" viewBox="0 0 26 18">
+              <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even"></use>
+            </svg>
+          </a>
+
+          <div class="logo-wrapper flex-item">
+          
+            
+              <div class="site-title branding" data-content-field="site-title"><a href="/"><span class="site-title-text">BACK7</span></a></div>
+            
+          
+          </div>
+
+          
+          
+           <nav class="header-special-social--shown-on-collapse sqs-template-social-icons sqs-svg-icon--list">
+             
+
+
+  <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+           </nav>
+          
+          
+
+          <div class="header-special flex-item">
+            <div class="social-search-wrapper cart-visible">
+              <div class="social-ellipsis" id="socialEllipsis" data-controller="SocialToggle">
+                <svg class="ellipsis-icon" viewBox="0 0 100 24">
+                  <use xlink:href="/assets/ui-icons.svg#ellipsis-icon"></use>
+                </svg>
+                <svg class="social-close-icon Icon Icon--close" viewBox="0 0 18 18">
+                  <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+                </svg>
+              </div><!--
+               
+               
+                --><nav class="header-special-social sqs-template-social-icons sqs-svg-icon--list" data-content-field="connected-accounts">
+                  
+
+
+  <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+                </nav><!--
+               
+               
+             --><a href="/search" rel="search" class="header-search" data-controller="SearchToggle">
+                <svg class="Icon Icon--search search-icon" viewBox="0 0 20 20" shape-rendering="geometricPrecision">
+                  <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                </svg>
+                <svg class="Icon Icon--close search-close-icon" viewBox="0 0 18 18">
+                  <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+                </svg>
+               </a>
+              </div><!--
+              --><!--
+              --><a href="/cart" class="sqs-custom-cart custom-cart">
+              <div class="custom-cart-bag">
+                <svg class="Icon Icon--bag custom-cart-bag-icon" viewBox="0 0 34 38">
+                  <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon--odd"></use>
+                  <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon--even"></use>
+                </svg>
+                <span class="sqs-cart-quantity">0</span>
+              </div>
+            </a>
+          </div>
+        </header>
+      </div>
+
+      <main id="page" class="site-page loading responsive-padding--left responsive-padding--right site-page--blog-item" role="main" data-content-field="main-content" data-controller="FadeInContent">
+
+        <div class="blog-wrapper" data-content-field="main-content" data-item-id="5f8b36c86dd4bd5269891b7c">
+  
+  <section class="blog-item-banner has-main-image">
+    <div class="blog-item-banner-image" data-controller="SetUpBannerImage"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974739198-WV4L7B9RJRFUJMBTQAOZ/JAY02562.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974739198-WV4L7B9RJRFUJMBTQAOZ/JAY02562.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="The Raspberry Pi Cluster Deck - Function With Some Form Too"  data-load="false" /></div>
+  </section>
+  
+
+  <div class="main-content blog-view-item clearfix">
+    <input id="show-comments" type="checkbox" />
+    <article id="article-5f8b36c86dd4bd5269891b7c" class="entry--item h-entry clearfix hentry author-jay-doscher post-type-text">
+      
+      <div class="blog-item-title">
+        <time class="dt-published date-callout" datetime="2020-10-17" pubdate>
+          <div class="date-wrapper">
+            <span class="month">Oct </span><span class="day">17</span>
+          </div>
+        </time>
+        <h2 class="entry-title entry-title--large p-name" itemprop="headline" data-content-field="title"><time class="dt-published date-highlight" itemprop="datePublished" datetime="2020-10-17" pubdate>Oct 17 </time>The Raspberry Pi Cluster Deck - Function With Some Form Too</h2>
+
+        <div class="meta-wrapper">
+          <div class="blog-meta-item blog-meta-author p-author author"><a href="/home?author=5caa4acd7e697db3c30acc67" class="blog-author-name">Jay Doscher</a> </div>
+
+          
+        </div>
+      </div>
+      
+      <div class="blog-item-content-wrapper" data-controller="BlogProgressBar">
+        
+        <div class="pie-wrapper" id="pieWrapper">
+          <div class="pie pie--left" id="pieLeft"></div>
+          <div class="pie pie--right hide" id="pieRight"></div>
+          <div class="mask mask--right hide" id="pieMask"></div>
+          <div class="mask mask--left" id="maskLeft"></div>
+        </div>
+        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1602960100607" id="item-5f8b36c86dd4bd5269891b7c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1602959033220_74423"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2048px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.69921875%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602976760005-XZEWVIGECC19M6WBGI93/JAY02561.jpg" alt="JAY02561.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602976760005-XZEWVIGECC19M6WBGI93/JAY02561.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602976760005-XZEWVIGECC19M6WBGI93/JAY02561.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02561.jpg" data-load="false" data-image-id="5f8b7bf6e71556378585eb51" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-0d97c217538424925c10"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Over the past year I’ve really focused on the idea of the Cyberdeck- while I’m one of many different makers in the space, I always had an industrial and retro-futuristic approach to the builds.  I recently started to get involve with the Millix.org cryptocurrency, and while this project is not sponsored or specific to the Millix project, you should know that they have compensated me for <a href="https://millix.org/about.html#team">my involvement</a> which has been focused on the node configuration.</p><p class="" style="white-space:pre-wrap;">Much of my work with Millix has been around finding the sweet spot with different computing platforms.  I’ve used the Millix node software to test the combination of fast CPU with small and fast IO operations to see what platform could support Millix transactions the best.  It’s worth noting that <a href="https://millix.org/whitepaper.html#technology">Millix uses a DAG</a> and does not use a Proof of Work model, so this isn’t a “mining” deck.  More info on the Millix project <a href="https://millix.org/whitepaper.html#overview">over here</a>.</p><p class="" style="white-space:pre-wrap;">Instead, the idea was to offer Millix transaction processing in a way that’s inexpensive and still quite fast.  The real rockstar of single node performance was the Udoo Bolt V8 with an NVME drive, but with a price of over $500 for the setup, I quickly found that a Raspberry Pi 4 with a USB 3 flash drive setup was the best price/performance deal.  This is significant because while a flash drive can run out of reads and writes, they are only $15 or so and only store the shard for Millix, which can be re-downloaded if needed.  Instead in this setup I needed small bursts of IO and a few fast cores.  </p><p class="" style="white-space:pre-wrap;">I even ran it up against a fully modern Intel Core i7 10700K, and it was quickly apparent that the bottleneck on a fast CPU was the storage- even using ZFS and multiple NVME drives or Intel Optane storage yielded good results- but at a much higher price than a Pi4.  This setup even used the cheaper 2GB Pi 4 boards since memory wasn’t as much of a factor for this project.</p><p class="" style="white-space:pre-wrap;">All of this leads me to the project this time around, which is a very similar build to Mil-Plastic deck, but this time it uses fewer parts but is a little harder to print.  The largest part takes more than 20 hours to print on some printers.</p><p class="" style="white-space:pre-wrap;">The core of the build is the following build list:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">A <a href="https://amzn.to/2T5CIKY">Raspberry Pi 4 2GB</a> (node 1) with the following attached:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Pimoroni 10” HDMI Display - <a href="https://www.adafruit.com/product/4337">Adafruit</a></p></li><li><p class="" style="white-space:pre-wrap;">Micro HDMI to HDMI connector - <a href="https://amzn.to/2T66m2K">Amazon</a> or <a href="https://amzn.to/3lRDBTK">Amazon</a></p></li><li><p class="" style="white-space:pre-wrap;">USB to NVME Adapter - <a href="https://amzn.to/31iJ3HB">Amazon</a></p></li><li><p class="" style="white-space:pre-wrap;">M.2 Drive - <a href="https://amzn.to/345nTOS">Amazon</a></p></li><li><p class="" style="white-space:pre-wrap;">Raspberry Pi PoE Hat for power and CPU cooling - <a href="https://amzn.to/37i6RiC">Amazon</a></p></li><li><p class="" style="white-space:pre-wrap;">Short Ethernet patch cable - <a href="https://amzn.to/349SsDk">Amazon</a></p></li></ul></li><li><p class="" style="white-space:pre-wrap;">A <a href="https://amzn.to/2T5CIKY">Raspberry Pi 4 2GB</a> (node 2)</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Connected to the PoE switch (Ethernet cables linked above)</p></li><li><p class="" style="white-space:pre-wrap;">Purple LED connected to the USB port - Amazon</p></li></ul></li><li><p class="" style="white-space:pre-wrap;"><a href="https://amzn.to/2T5CIKY">Raspberry Pi 4 2GB</a>  (node 3)</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Connected to the PoE switch (Ethernet cables linked above)</p></li><li><p class="" style="white-space:pre-wrap;">USB to fan controller</p></li></ul></li><li><p class="" style="white-space:pre-wrap;"><a href="https://amzn.to/2T5CIKY">Raspberry Pi 4 2GB</a>  (node 4)</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Connected to the PoE switch (Ethernet cables linked above)</p></li></ul></li><li><p class="" style="white-space:pre-wrap;">Each Pi 4 is connected to the 5 Port PoE switch - <a href="https://amzn.to/3kmjXPL">Amazon</a></p></li><li><p class="" style="white-space:pre-wrap;">The enclosure uses two Noctua fans - Amazon</p></li><li><p class="" style="white-space:pre-wrap;">Fan grills - <a href="https://amzn.to/37gjs5L">Amazon</a></p></li><li><p class="" style="white-space:pre-wrap;">M5 Screws - <a href="https://www.mcmaster.com/93070A121/">McMaster Carr</a></p></li><li><p class="" style="white-space:pre-wrap;">High endurance MicroSD cards - <a href="https://amzn.to/3lW5XfJ">Amazon</a></p></li><li><p class="" style="white-space:pre-wrap;">Assembled 3D Model (use this for assembly instructions) - Tinkercad</p></li><li><p class="" style="white-space:pre-wrap;">Parts layout for printing (use this for orienting the parts, 2 need supports) - <a href="https://www.tinkercad.com/things/g2xuqWDfeFF-daring-gogo-jaban">Tinkercad</a></p></li><li><p class="" style="white-space:pre-wrap;">Parts on <a href="https://www.thingiverse.com/thing:4626744">Thingiverse</a></p></li></ul><p class="" style="white-space:pre-wrap;">The idea from there is simply to put it all inside the enclosure- but how do we make it all fit?  First, I came up with the idea of alternating bolts to make large stacks of Pis.  After some experimentation it was clear that too many Pis stacked this close together created thermal issues, so I knew I’d need to add some serious cooling.  Here’s one of the prototype setups- the core of this is identical in the Cluster Deck, so you can just print this if you’re on a budget.  It’s a pretty tidy desktop setup too since only the switch needs power:</p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;existingGallery&quot;:null,&quot;hSize&quot;:null,&quot;newWindow&quot;:false,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:true,&quot;autoplay-duration&quot;:5,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5f8b71161caa0828250e7f0a&quot;,&quot;controls&quot;:false,&quot;design&quot;:&quot;slideshow&quot;,&quot;show-meta&quot;:false,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails&quot;:false,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5f8b71161caa0828250e7f0a&quot;&#125;" data-block-type="8" id="block-yui_3_17_2_1_1602960101990_6344"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  
+  
+
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973977748-8JQI7ZIM7SU6X440W601/JAY02494.jpg" alt="JAY02494.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973977748-8JQI7ZIM7SU6X440W601/JAY02494.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973977748-8JQI7ZIM7SU6X440W601/JAY02494.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02494.jpg" data-load="false" data-image-id="5f8b7116e5c0524b4b72c874" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973977817-XOYA36ZQ0ODK926VQN3C/JAY02496.jpg" alt="JAY02496.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973977817-XOYA36ZQ0ODK926VQN3C/JAY02496.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973977817-XOYA36ZQ0ODK926VQN3C/JAY02496.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02496.jpg" data-load="false" data-image-id="5f8b71160783507393d2750a" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973980685-9QYC1ZD4F8TBGS72ZH3M/JAY02500.jpg" alt="JAY02500.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973980685-9QYC1ZD4F8TBGS72ZH3M/JAY02500.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602973980685-9QYC1ZD4F8TBGS72ZH3M/JAY02500.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02500.jpg" data-load="false" data-image-id="5f8b711af465171905a57d3d" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1602960101990_6418"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;"><br>From there it was all about mounting the boards in a way that made sense- I wanted to make sure they had ample cooling so I arranged the boards to allow airflow from left to right to pass over them.</p><p class="" style="white-space:pre-wrap;">The cluster mounts to a back panel, which in this case is a clear plastic sheet laser cut from the folks at <a href="https://ponoko.com">Ponoko.com</a>.  </p><p class="" style="white-space:pre-wrap;">I won’t go too much into the case since it’s very similar to the Mil-Plastic deck, but this one has a really large plastic shell that prints are one part:</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1602960101990_12889"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2048px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.69921875%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974447840-RP7AG76RFZGSJDLK0A89/JAY02423.jpg" alt="JAY02423.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974447840-RP7AG76RFZGSJDLK0A89/JAY02423.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974447840-RP7AG76RFZGSJDLK0A89/JAY02423.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02423.jpg" data-load="false" data-image-id="5f8b72eede10c862893d3004" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1602960101990_13178"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Big part</p><p class="" style="white-space:pre-wrap;">The rest still screws together with M5 screws.  Here’s part of the project assembled before I put on the display panel:</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1602960101990_14960"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2479px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:77.49092864990234%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974490441-X1FKVBXKCNC2VLIXZXTF/IMG_1534.jpg" alt="IMG_1534.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974490441-X1FKVBXKCNC2VLIXZXTF/IMG_1534.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974490441-X1FKVBXKCNC2VLIXZXTF/IMG_1534.jpg" data-image-dimensions="2479x1921" data-image-focal-point="0.5,0.5" alt="IMG_1534.jpg" data-load="false" data-image-id="5f8b7319474f532839e9af48" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1602960101990_15249"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;"><br>From there it’s a pretty unassuming grey enclosure- it does not have the flair of the others I’ve built, but this one packs some serious power.  </p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;existingGallery&quot;:null,&quot;hSize&quot;:null,&quot;newWindow&quot;:false,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:true,&quot;autoplay-duration&quot;:5,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5f8b73782a8b041a1bc0c0a1&quot;,&quot;controls&quot;:false,&quot;design&quot;:&quot;slideshow&quot;,&quot;show-meta&quot;:false,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails&quot;:false,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5f8b73782a8b041a1bc0c0a1&quot;&#125;" data-block-type="8" id="block-yui_3_17_2_1_1602960101990_17250"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  
+  
+
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974587734-4EJ3DD372LT5CBXY4JPK/RPCD+-+Exploded.png" alt="RPCD - Exploded.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974587734-4EJ3DD372LT5CBXY4JPK/RPCD+-+Exploded.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974587734-4EJ3DD372LT5CBXY4JPK/RPCD+-+Exploded.png" data-image-dimensions="1832x1337" data-image-focal-point="0.5,0.5" alt="RPCD - Exploded.png" data-load="false" data-image-id="5f8b737863b478477e500754" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974587353-EQIR01VIFR94FJT9D246/RPCD+-+Front+Assembled.png" alt="RPCD - Front Assembled.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974587353-EQIR01VIFR94FJT9D246/RPCD+-+Front+Assembled.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974587353-EQIR01VIFR94FJT9D246/RPCD+-+Front+Assembled.png" data-image-dimensions="1426x1281" data-image-focal-point="0.5,0.5" alt="RPCD - Front Assembled.png" data-load="false" data-image-id="5f8b737936835c73a7b0e426" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974590403-1QZY0VF5D1J1C3DU9B7O/RPCD+-+Rear+Assembled.png" alt="RPCD - Rear Assembled.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974590403-1QZY0VF5D1J1C3DU9B7O/RPCD+-+Rear+Assembled.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974590403-1QZY0VF5D1J1C3DU9B7O/RPCD+-+Rear+Assembled.png" data-image-dimensions="1587x1375" data-image-focal-point="0.5,0.5" alt="RPCD - Rear Assembled.png" data-load="false" data-image-id="5f8b737ce71556378584fb01" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974590774-LRXETYONARS00HSNREA2/RPCD+-+Rear+Side+Panels.png" alt="RPCD - Rear Side Panels.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974590774-LRXETYONARS00HSNREA2/RPCD+-+Rear+Side+Panels.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974590774-LRXETYONARS00HSNREA2/RPCD+-+Rear+Side+Panels.png" data-image-dimensions="1502x1098" data-image-focal-point="0.5,0.5" alt="RPCD - Rear Side Panels.png" data-load="false" data-image-id="5f8b737c6dd4bd5269909233" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1602960101990_20871"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">The renders were needed for this because it’s a pretty difficult project to photograph, but here’s the completed project:</p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;existingGallery&quot;:null,&quot;hSize&quot;:null,&quot;newWindow&quot;:false,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:true,&quot;autoplay-duration&quot;:10,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5f8b73d5bd7d5f4df5253f60&quot;,&quot;controls&quot;:true,&quot;design&quot;:&quot;slideshow&quot;,&quot;show-meta&quot;:false,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails&quot;:false,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5f8b73d5bd7d5f4df5253f60&quot;&#125;" data-block-type="8" id="block-yui_3_17_2_1_1602960101990_23588"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  sqs-gallery-has-controls
+  
+
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974679864-XEM687U2Q82F7CAS7A57/JAY02561.jpg" alt="JAY02561.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974679864-XEM687U2Q82F7CAS7A57/JAY02561.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974679864-XEM687U2Q82F7CAS7A57/JAY02561.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02561.jpg" data-load="false" data-image-id="5f8b73d59ff1730d11639781" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974680437-66OXOQS7OEGO6RAO1N67/JAY02562.jpg" alt="JAY02562.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974680437-66OXOQS7OEGO6RAO1N67/JAY02562.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1602974680437-66OXOQS7OEGO6RAO1N67/JAY02562.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02562.jpg" data-load="false" data-image-id="5f8b73d5cfa41b2e087572a3" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1602960101990_27558"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">This project is very much a work-in-progress and has some details I’d like to improve in the future:</p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">The design lacks good fan speed control, so the fans on each side are running at full speed.  They’re not loud, but they are not silent either.  I think I’d prefer a more open case with quieter fans, but getting good fan speed control without fancy IO is a challenge (seed #2).</p></li><li><p class="" style="white-space:pre-wrap;">The Raspberry Pi PoE Hat is a good product, and really turns the Pi4 into only a computer- it doesn’t really need to use all the pins on the board, but like many Pi Hats it takes and blocks all of them.  With the boards so close to each other, the PoE hat is both necessary for power and cooling, but also prevents clever stuff like fan speed control or other IO which is normally pretty easy on the Pi.</p></li><li><p class="" style="white-space:pre-wrap;">The display is fine for standard light use, but the mounting is pretty finnicky and I’d prefer a more robust mounting solution.  That said, once it’s properly in place it works fine.</p></li><li><p class="" style="white-space:pre-wrap;">Finally, I thought I’d like the grey but the case needs more detail.  If you don’t need something sci-fi looking on your desk, just the bare internal bracket of Pis is pretty cool.</p></li></ol><p class="" style="white-space:pre-wrap;">I hope you enjoyed this article, this (as with many of my other prototypes) are are sale at <a href="https://back7.co/store">https://back7.co/store.</a> If you decide to print one yourself, please tag me on Twitter or Instagram!</p></div></div></div></div></div></div>
+
+        <footer class="blog-item-footer">
+
+          <div class="footer-meta">
+          
+            <div class="blog-meta-item blog-meta-author"><a href="/home?author=5caa4acd7e697db3c30acc67" class="blog-author-name">Jay Doscher</a></div>
+          
+
+          
+
+          
+          </div>
+
+          <div class="blog-item-actions blog-item-actions--footer">
+            <div class="blog-item-actions-wrapper">
+              
+
+<div class="Share sqs-share-buttons" data-item-identifier="5f8b36c86dd4bd5269891b7c" data-item-path="home/the-raspberry-pi-cluster-deck">
+
+  <div class="Share-buttons">
+
+    <!--
+
+      Facebook
+
+    --><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fback7.co%2Fhome%2Fthe-raspberry-pi-cluster-deck" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="facebook">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#facebook-icon"></use>
+        </svg><span class="Share-buttons-item-label">Facebook</span><span class="Share-buttons-item-count">0</span>
+      </a><!--
+
+      Twitter
+
+    --><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fback7.co%2Fhome%2Fthe-raspberry-pi-cluster-deck&text=" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="twitter">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#twitter-icon"></use>
+        </svg><span class="Share-buttons-item-label">Twitter</span>
+      </a><!--
+
+      LinkedIn
+
+    --><a href="https://www.linkedin.com/shareArticle?mini=true&source=BACK7&summary=&url=https%3A%2F%2Fback7.co%2Fhome%2Fthe-raspberry-pi-cluster-deck" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="linkedin">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#linkedin-icon"></use>
+        </svg><span class="Share-buttons-item-label">LinkedIn</span><span class="Share-buttons-item-count">0</span>
+      </a><!--
+
+      Reddit
+
+    --><a href="https://www.reddit.com/submit?url=https%3A%2F%2Fback7.co%2Fhome%2Fthe-raspberry-pi-cluster-deck" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="reddit">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#reddit-icon"></use>
+        </svg><span class="Share-buttons-item-label">Reddit</span>
+      </a><!--
+
+      Simple Like
+
+    --><a href="#" class="Share-buttons-item Share-buttons-item--like" data-item-identifier="5f8b36c86dd4bd5269891b7c" data-like-count="0" data-service="squarespace-like">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <g class="svg-icon">
+            <path d="M39.9,37.8c-7.3,4.8-7.7,6.9-7.9,7.8c-0.2-0.9-0.6-3-7.9-7.8c-16-10.6,1.4-25.4,7.9-11.7C38.5,12.4,55.9,27.3,39.9,37.8z"/>
+          </g>
+        </svg><span class="Share-buttons-item-label"><span class="Share-buttons-item-label-count">0</span> Likes</span>
+      </a>
+    
+
+  </div>
+
+</div>
+
+            </div>
+          </div>
+
+          
+            <div class="blog-item-author-profile blog-item-author-profile--footer responsive-margin--top">
+              
+<div class="author-name"><a href="/home?author=5caa4acd7e697db3c30acc67">Jay Doscher</a></div>
+
+
+
+            </div>
+          
+
+        </footer>
+
+        
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <label for="show-comments" title="Show/Hide Comments" class="blog-item-comments-toggle">
+              
+                
+                  Show 2 comments
+                  
+                
+              </label>
+            <div id="blogItemCommentsContent" class="blog-item-comments-content">
+              
+              <div id="comments-5f8b36c86dd4bd5269891b7c" class="p-comment">
+                
+  <div class="squarespace-comments" id="comments-5f8b36c86dd4bd5269891b7c" data-item-id="5f8b36c86dd4bd5269891b7c" data-public-comment-count="2" data-comment-state="1"></div>
+
+              </div>
+              
+            </div>
+          </div>
+        </section>
+      </div>
+      <aside id="blogItemSidebar" class="blog-item-sidebar">
+        
+          <div class="blog-item-author-profile blog-item-author-profile--sidebar">
+            
+<div class="author-name"><a href="/home?author=5caa4acd7e697db3c30acc67">Jay Doscher</a></div>
+
+
+
+          </div>
+        
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Blog Item Sidebar" data-type="block-field" data-updated-on="1598405161391" id="blogItemSidebarContent"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block newsletter-block sqs-block-newsletter" data-block-type="51" id="block-e24733d564f168014e77"><div class="sqs-block-content">
+
+
+<div class="newsletter-form-wrapper
+  
+  newsletter-form-wrapper--layoutFloat
+  newsletter-form-wrapper--alignLeft
+  
+  "
+  >
+  <form
+     class="newsletter-form"
+     data-form-id="5d7a9ce62c8a3d10da69f7ed"
+     
+     autocomplete="on"
+     method="POST"
+     novalidate
+     onsubmit="return (function (form) {
+    Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+      (new Y.Squarespace.FormSubmit(form)).submit({
+        formId: '5d7a9ce62c8a3d10da69f7ed',
+        collectionId: '',
+        objectName: 'blogItemSidebarContent'
+      });
+    });
+    return false;
+  })(this);">
+    <header class="newsletter-form-header">
+      <h2 class="newsletter-form-header-title">Subscribe</h2>
+      <div class="newsletter-form-header-description"><p class="">Get updates on my projects</p></div>
+    </header>
+    <div class="newsletter-form-body">
+      <div class="newsletter-form-fields-wrapper form-fields" style="vertical-align: middle;">
+        
+        
+          
+            <div id="email-yui_3_17_2_3_1454451851814_6953" class="newsletter-form-field-wrapper form-item field email required" style="vertical-align: bottom;">
+              <label class="newsletter-form-field-label title" for="email-yui_3_17_2_3_1454451851814_6953-field">Email Address</label>
+              <input id="email-yui_3_17_2_3_1454451851814_6953-field" class="newsletter-form-field-element field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" placeholder="Email Address" />
+            </div>
+          
+        
+          
+        
+      </div>
+      <div data-animation-role="button" class="newsletter-form-button-wrapper submit-wrapper" style="vertical-align: middle;">
+        <button
+          class="
+            newsletter-form-button
+            sqs-system-button
+            sqs-editable-button-layout
+            sqs-editable-button-style
+            sqs-editable-button-shape
+            sqs-button-element--primary
+          "
+          type="submit"
+          value="Sign Up"
+        >
+          <span class="newsletter-form-spinner sqs-spin light large"></span>
+          <span class="newsletter-form-button-label">Sign Up</span>
+          <span class="newsletter-form-button-icon"></span>
+        </button>
+      </div>
+      
+        <div class="model"></div>
+        
+      
+    </div>
+    <div class="newsletter-form-footnote"></div>
+    <div class="hidden form-submission-text">Thank you!</div>
+    <div class="hidden form-submission-html" data-submission-html=""></div>
+  </form>
+</div>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.565217391304348" data-block-type="21" id="block-yui_3_17_2_3_1454451851814_14039"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_6_1454451851814_11855"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Instagram</h3><p class="" style="white-space:pre-wrap;"><a href="http://www.instagram.com/back7.co" target="_blank">@back7.co</a></p></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.565217391304348" data-block-type="21" id="block-yui_3_17_2_3_1454451851814_16409"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block instagram-block sqs-block-instagram" data-block-json="&#123;&quot;title&quot;:true,&quot;thumbnail&quot;:true,&quot;excerpt&quot;:true,&quot;pageSize&quot;:12,&quot;filter&quot;:&#123;&#125;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;pageCollectionId&quot;:null,&quot;containingItemId&quot;:null,&quot;enable-search&quot;:false,&quot;search-deprecated-warning&quot;:null,&quot;connectedAccountId&quot;:&quot;5d7e50649122d012b2720ee9&quot;,&quot;enable-search-disabled&quot;:null,&quot;socialCollectionId&quot;:&quot;&quot;,&quot;previewCollectionId&quot;:&quot;&quot;,&quot;status&quot;:&quot;undefined&quot;,&quot;searchId&quot;:&quot;undefined&quot;,&quot;searchTerm&quot;:&quot;&quot;,&quot;refresh&quot;:null,&quot;newWindow&quot;:false,&quot;unsafeSearch&quot;:null,&quot;aspect-ratio&quot;:&quot;square&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5d7e50649122d012b2720ee9&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;lightbox&quot;:false,&quot;padding&quot;:10,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails-per-row&quot;:1,&quot;vSize&quot;:null&#125;" data-block-type="25" id="block-yui_3_17_2_1_1568859911688_9404"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-square
+  sqs-gallery-thumbnails-per-row-1
+  
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  data-async-rendering-enabled="true"
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CFHeDX5DeSu/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-363EWX9ELNRJYGGOUZ80/image-asset.jpeg" alt="Do you want to build the Raspberry Pi Quick Kit yourself but don't have access to a 3D printer?  I'll have a listing by the end of the week for just the 3D printed parts and the screws needed.  Hang in there! I will offer PETG in Grey, Space Grey, Or" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-363EWX9ELNRJYGGOUZ80/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-363EWX9ELNRJYGGOUZ80/image-asset.jpeg" data-image-dimensions="1440x1436" data-image-focal-point="0.5,0.5" alt="Do you want to build the Raspberry Pi Quick Kit yourself but don't have access to a 3D printer?  I'll have a listing by the end of the week for just the 3D printed parts and the screws needed.  Hang in there! I will offer PETG in Grey, Space Grey, Or" data-load="false" data-image-id="5f7486f149c49b5fcb4e2877" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CFCoyQBDJLp/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-BHKXB95C9XI4PEE750P8/image-asset.jpeg" alt="Grey and orange Quick Kits are being printed now &amp;amp; restocked online with ~2 weeks until shipping. Order now if you&amp;rsquo;re still interested in picking one up. I&amp;rsquo;m not making any more carbon fiber versions, but may make a black standard PET" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-BHKXB95C9XI4PEE750P8/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-BHKXB95C9XI4PEE750P8/image-asset.jpeg" data-image-dimensions="1368x1365" data-image-focal-point="0.5,0.5" alt="Grey and orange Quick Kits are being printed now &amp;amp; restocked online with ~2 weeks until shipping. Order now if you&amp;rsquo;re still interested in picking one up. I&amp;rsquo;m not making any more carbon fiber versions, but may make a black standard PET" data-load="false" data-image-id="5f751aaa4bb5771caa09ecc6" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE_1hC7jFyh/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-PZ5PUE4XMVVVSEI8KPMR/image-asset.jpeg" alt="Introducing the Raspberry Pi Quick Kit. No solder, easy assembly, short parts list.  These three are for sale at back7.co/store and help fund future projects.  All of the designs are available in the article at back7.co!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-PZ5PUE4XMVVVSEI8KPMR/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-PZ5PUE4XMVVVSEI8KPMR/image-asset.jpeg" data-image-dimensions="1365x910" data-image-focal-point="0.5,0.5" alt="Introducing the Raspberry Pi Quick Kit. No solder, easy assembly, short parts list.  These three are for sale at back7.co/store and help fund future projects.  All of the designs are available in the article at back7.co!" data-load="false" data-image-id="5f7486f149c49b5fcb4e2878" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE9IoM4A1xo/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1599745172683-NOTRYV81E2CWKKCLY723/image-asset.jpeg" alt="All of the electronics installed.  No soldering this time!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1599745172683-NOTRYV81E2CWKKCLY723/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1599745172683-NOTRYV81E2CWKKCLY723/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="All of the electronics installed.  No soldering this time!" data-load="false" data-image-id="5f5a2c9271b98e18991a0462" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE71p3ZF0K_/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-GR6MOWQG7V6M6ZJGV8OA/image-asset.jpeg" alt="This is the front of one design!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-GR6MOWQG7V6M6ZJGV8OA/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-GR6MOWQG7V6M6ZJGV8OA/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="This is the front of one design!" data-load="false" data-image-id="5f751aaa4bb5771caa09ecc9" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE6j17Fgdww/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-M61GC9FJOQUHLRVCEQOI/image-asset.jpeg" alt="Install the panel mounts and attach the frame using M5 screws.  A full build guide will be available Friday!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-M61GC9FJOQUHLRVCEQOI/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-M61GC9FJOQUHLRVCEQOI/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="Install the panel mounts and attach the frame using M5 screws.  A full build guide will be available Friday!" data-load="false" data-image-id="5f7486f149c49b5fcb4e287a" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE3_Cyrgq6y/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-OHY3JPSWEEO8UC8W5S7Q/image-asset.jpeg" alt="The display brackets are easy to print too, in about 4 hours at 0.15 layer height.  No supports needed either, and a simple round recess to help you line them up on the frame since they're not reversible." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-OHY3JPSWEEO8UC8W5S7Q/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-OHY3JPSWEEO8UC8W5S7Q/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="The display brackets are easy to print too, in about 4 hours at 0.15 layer height.  No supports needed either, and a simple round recess to help you line them up on the frame since they're not reversible." data-load="false" data-image-id="5f751aaa4bb5771caa09eccb" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE1aQGJgl_M/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-1O4ENT6TY06TFDZRV0D5/image-asset.jpeg" alt="They key this time is simplicity.  Here's the much easier to print, easier to install, and faster to print main frame.  Source files and a limited quantity for sale available next Friday!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-1O4ENT6TY06TFDZRV0D5/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-1O4ENT6TY06TFDZRV0D5/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="They key this time is simplicity.  Here's the much easier to print, easier to install, and faster to print main frame.  Source files and a limited quantity for sale available next Friday!" data-load="false" data-image-id="5f751aaa4bb5771caa09eccc" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CEtr3wjAMGH/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-63FIVWIRKLXZ2XTFK00N/image-asset.jpeg" alt="Here I am, back up to my old tricks, this time with the diminutive Pelican 1150.  This is a quick project, completing next week!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-63FIVWIRKLXZ2XTFK00N/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-63FIVWIRKLXZ2XTFK00N/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="Here I am, back up to my old tricks, this time with the diminutive Pelican 1150.  This is a quick project, completing next week!" data-load="false" data-image-id="5f751aaa4bb5771caa09eccd" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CErHVKyD1YH/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-3KON6E0FS313G41U3W1S/image-asset.jpeg" alt="Here's the hero shot- I've added some connectors for future GPIO on the board.  You can see the full write-up and get all the designs over at https://back7.co or click the link in my profile." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-3KON6E0FS313G41U3W1S/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-3KON6E0FS313G41U3W1S/image-asset.jpeg" data-image-dimensions="1440x1436" data-image-focal-point="0.5,0.5" alt="Here's the hero shot- I've added some connectors for future GPIO on the board.  You can see the full write-up and get all the designs over at https://back7.co or click the link in my profile." data-load="false" data-image-id="5f751aaa4bb5771caa09ecce" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CEoiRAYHIAO/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-KL0G8ZPFSPKWTWX1MX7P/image-asset.jpeg" alt="Although the center frames did not need updating, I did change the side panels- gone is the backward 7 and in their place are some simple mounts for possible future projects.  You can see the fan controller peeking out the bottom.  This is the back o" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-KL0G8ZPFSPKWTWX1MX7P/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-KL0G8ZPFSPKWTWX1MX7P/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="Although the center frames did not need updating, I did change the side panels- gone is the backward 7 and in their place are some simple mounts for possible future projects.  You can see the fan controller peeking out the bottom.  This is the back o" data-load="false" data-image-id="5f751aaa4bb5771caa09eccf" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CEl9exznIgV/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-A2OY62ULFY7ZX5BNC0D2/image-asset.jpeg" alt="With this iteration I have removed the monitor mount and replaced simply added this cut top to keep stuff from falling in.  The holes were already in the original design, so no new parts were needed for this update." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-A2OY62ULFY7ZX5BNC0D2/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-A2OY62ULFY7ZX5BNC0D2/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="With this iteration I have removed the monitor mount and replaced simply added this cut top to keep stuff from falling in.  The holes were already in the original design, so no new parts were needed for this update." data-load="false" data-image-id="5f751aaa4bb5771caa09ecd0" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-yui_3_17_2_1_1568859911688_9404 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -10px; }
+#block-yui_3_17_2_1_1568859911688_9404 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 10px; margin-bottom: 10px; }
+</style>
+
+
+
+</div></div></div></div></div>
+      </aside>
+
+    </article>
+  </div>
+
+
+
+<section class="blog-item-pagination">
+  <a href="/home/raspberry-pi-quick-kit-one" class="blog-item-pagination-link blog-item-pagination-link--prev">
+    <div class="blog-item-label">
+      <svg class="prev-icon" viewBox="0 0 50 100">
+        <use xlink:href="/assets/ui-icons.svg#thick-arrow-left-icon"></use>
+      </svg>
+    </div>
+    <span class="pagination-title-wrapper">
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1603133515368-LVTRP5NAGJWRKKZC8AIK/JAY02559.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1603133515368-LVTRP5NAGJWRKKZC8AIK/JAY02559.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="Final Revision - The Raspberry Pi One Kit"  />
+      <h2 class="blog-item-pagination-title"><time class="dt-published date-pagination" datetime="2020-10-20" pubdate>Oct 20 </time>Final Revision - The Raspberry Pi One Kit</h2>
+    </span>
+  </a><!--
+  --><a href="/home/cyberdeck-contest-entry-black-and-clear" class="blog-item-pagination-link blog-item-pagination-link--next">
+    <div class="blog-item-label">
+      <svg class="next-icon" viewBox="0 0 50 100">
+        <use xlink:href="/assets/ui-icons.svg#thick-arrow-right-icon"></use>
+      </svg>
+    </div>
+    <span class="pagination-title-wrapper">
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1600211701792-CXEITIQ3KMIC2IN0SQQJ/JAY02529.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1600211701792-CXEITIQ3KMIC2IN0SQQJ/JAY02529.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="Cyberdeck Contest Entry - Black &amp;amp; Clear"  />
+      <h2 class="blog-item-pagination-title"><time class="dt-published date-pagination" datetime="2020-09-15" pubdate>Sep 15 </time>Cyberdeck Contest Entry - Black &amp; Clear</h2>
+    </span>
+  </a>
+</section>
+
+
+
+  
+    
+        <h2 class="related-title responsive-padding--top">Related Posts</h2>
+        <section id="related" class="blog-item-related clear" data-controller="RelatedPostImages">
+          <article id="article-5e31127c9258077073262197" class="blog-list-item entry entry--list entry--related h-entry hentry author-jay-doscher post-type-text article-index-1 has-main-image" data-item-id="5e31127c9258077073262197" data-item-title="Weekend Project: Scaling Octoprint with udev, haproxy, and a Raspberry Pi 4">
+                <div class="thumbnail-title-wrapper">
+                  
+                  <div class="excerpt-thumb">
+                    <a href="/home/scaling-octoprint-with-a-raspberry-pi" class="excerpt-image content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1581192187693-YJGR48TC9A7IUUJMBS93/JAY02045.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1581192187693-YJGR48TC9A7IUUJMBS93/JAY02045.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="Weekend Project: Scaling Octoprint with udev, haproxy, and a Raspberry Pi 4"  /></a>
+                  </div>
+                  
+                </div>
+
+                <div class="entry-text">
+                  
+                  <header class="entry-header">
+                    
+                    <a href="/home/scaling-octoprint-with-a-raspberry-pi" class="u-url" rel="bookmark">
+                    
+                    <time class="dt-published date-callout" datetime="2020-02-08" pubdate>
+                      <div class="date-wrapper">
+                        <span class="month">Feb </span><span class="day"> 8</span>
+                      </div>
+                    </time>
+                    <h2 class="entry-title entry-title--list p-name">
+                      <time class="dt-published date-highlight" datetime="2020-02-08" pubdate>Feb  8 </time>
+                      Weekend Project: Scaling Octoprint with udev, haproxy, and a Raspberry Pi 4
+                    </h2>
+                    </a>
+                  </header>
+                  
+                </div>
+
+              </article><article id="article-5f4198b085783706be1e5b9b" class="blog-list-item entry entry--list entry--related h-entry hentry author-jay-doscher post-type-text article-index-2 has-main-image" data-item-id="5f4198b085783706be1e5b9b" data-item-title="Introducing the Raspberry Pi Quick Kit">
+                <div class="thumbnail-title-wrapper">
+                  
+                  <div class="excerpt-thumb">
+                    <a href="/home/the-raspberry-pi-quick-kit" class="excerpt-image content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1598323786413-C5M0AYVAXLESYVZ81TRW/JAY02505.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1598323786413-C5M0AYVAXLESYVZ81TRW/JAY02505.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="Introducing the Raspberry Pi Quick Kit"  /></a>
+                  </div>
+                  
+                </div>
+
+                <div class="entry-text">
+                  
+                  <header class="entry-header">
+                    
+                    <a href="/home/the-raspberry-pi-quick-kit" class="u-url" rel="bookmark">
+                    
+                    <time class="dt-published date-callout" datetime="2020-09-10" pubdate>
+                      <div class="date-wrapper">
+                        <span class="month">Sep </span><span class="day">10</span>
+                      </div>
+                    </time>
+                    <h2 class="entry-title entry-title--list p-name">
+                      <time class="dt-published date-highlight" datetime="2020-09-10" pubdate>Sep 10 </time>
+                      Introducing the Raspberry Pi Quick Kit
+                    </h2>
+                    </a>
+                  </header>
+                  
+                </div>
+
+              </article><article id="article-5f8ddb7e28260610f05b2ccc" class="blog-list-item entry entry--list entry--related h-entry hentry author-jay-doscher post-type-text article-index-3 has-main-image" data-item-id="5f8ddb7e28260610f05b2ccc" data-item-title="Final Revision - The Raspberry Pi One Kit">
+                <div class="thumbnail-title-wrapper">
+                  
+                  <div class="excerpt-thumb">
+                    <a href="/home/raspberry-pi-quick-kit-one" class="excerpt-image content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1603133515368-LVTRP5NAGJWRKKZC8AIK/JAY02559.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1603133515368-LVTRP5NAGJWRKKZC8AIK/JAY02559.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="Final Revision - The Raspberry Pi One Kit"  /></a>
+                  </div>
+                  
+                </div>
+
+                <div class="entry-text">
+                  
+                  <header class="entry-header">
+                    
+                    <a href="/home/raspberry-pi-quick-kit-one" class="u-url" rel="bookmark">
+                    
+                    <time class="dt-published date-callout" datetime="2020-10-20" pubdate>
+                      <div class="date-wrapper">
+                        <span class="month">Oct </span><span class="day">20</span>
+                      </div>
+                    </time>
+                    <h2 class="entry-title entry-title--list p-name">
+                      <time class="dt-published date-highlight" datetime="2020-10-20" pubdate>Oct 20 </time>
+                      Final Revision - The Raspberry Pi One Kit
+                    </h2>
+                    </a>
+                  </header>
+                  
+                </div>
+
+              </article>
+        </section>
+      
+  
+</div>
+
+      </main>
+
+      <footer id="footer" class="site-footer responsive-margin--top responsive-padding--left responsive-padding--right responsive-padding--top responsive-padding--bottom" role="contentinfo">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1569447416076" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_5_1454904737423_30492"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-small social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_7_1455646771058_9039"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">Powered by <a href="http://www.squarespace.com?channel=word_of_mouth&amp;subchannel=customer&amp;source=footer&amp;campaign=4fd1028ee4b02be53c65dfb3" target="_blank">Squarespace</a></p></div></div></div></div></div>
+        <div id="footerNavWrapper" class="nav-wrapper footer-nav">
+          
+<nav id="mainNavigation" class="main-navigation" role="navigation" data-content-field="navigation">
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="/home">
+          <span>Home</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="https://back7.co/store">
+          <span>Store</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="https://back7.co/buildlog">
+          <span>Build Log</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="/about">
+          <span>About</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="/contact">
+          <span>Contact</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+</nav>
+
+
+        </div>
+      </footer>
+
+    </div>
+
+    <div id="mobileBar" class="mobile-bar mobile-bar--has-cart" data-controller="MobileOffset">
+      <a class="nav-toggle-label nav-toggle-label--mobile flex-item" id="navToggleMobile" data-controller="NavToggle">
+        <svg class="Icon Icon--hamburger nav-toggle-label-icon" viewBox="0 0 26 18">
+          <use class="use--odd" xlink:href="/assets/ui-icons.svg#hamburger-icon--odd"></use>
+          <use class="use--even" xlink:href="/assets/ui-icons.svg#hamburger-icon--even"></use>
+        </svg>
+      </a><!--
+      --><div class="social-ellipsis social-ellipsis--mobile flex-item" id="socialEllipsisMobile" data-controller="SocialToggle">
+        <svg class="ellipsis-icon" viewBox="0 0 25 6">
+          <use xlink:href="/assets/ui-icons.svg#ellipsis-icon"></use>
+        </svg>
+        <svg class="Icon Icon--close social-close-icon" viewBox="0 0 18 18">
+          <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+        </svg>
+      </div><!--
+      --><div class="search-cart--mobile flex-item">
+        <a href="/search" rel="search" class="header-search header-search--mobile" data-controller="SearchToggle">
+          <svg class="Icon Icon--search search-icon" viewBox="0 0 20 20">
+            <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+          </svg>
+          <svg class="Icon Icon--close search-close-icon" viewBox="0 0 18 18">
+            <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+          </svg>
+        </a>
+        
+        <a href="/cart" class="sqs-custom-cart custom-cart mobile-cart">
+          <div class="custom-cart-bag">
+            <svg class="Icon Icon--bag custom-cart-bag-icon" viewBox="0 0 34 38">
+              <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon--odd"></use>
+              <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon--even"></use>
+            </svg>
+            <span class="sqs-cart-quantity">0</span>
+          </div>
+        </a>
+      </div><!--
+      -->
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/5caa4adb92441be122fcead4/0/scripts/site-bundle.js" type="text/javascript"></script>
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+
+  </body>
+</html>

@@ -1,0 +1,3822 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- jellyfish-rust-88n4 -->
+<base href="">
+<meta charset="utf-8" />
+<title>Incomplete Cyberdeck Design: The Modular Multideck &mdash; BACK7</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568316735339-COC29A997WQ40VXC1L55/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://back7.co/home/incomplete-cyberdeck"/>
+<meta property="og:site_name" content="BACK7"/>
+<meta property="og:title" content="Incomplete Cyberdeck Design: The Modular Multideck &mdash; BACK7"/>
+<meta property="og:latitude" content="40.7207559"/>
+<meta property="og:longitude" content="-74.0007613"/>
+<meta property="og:locality" content=""/>
+<meta property="og:url" content="https://back7.co/home/incomplete-cyberdeck"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Over the last year and a half I’ve done a number of cyberdeck designs, including a few before I even thought of them as such.  Even though I’d read Neuromancer decades ago, I just hadn’t made the connection.  Connecting with the larger community, I am inspired by the creativity of many people, altho"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5ffde7c793c5df5a6c8abda8/1614284474512/IO+Side+Panel+Adapter.png?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="1087"/>
+<meta itemprop="name" content="Incomplete Cyberdeck Design: The Modular Multideck — BACK7"/>
+<meta itemprop="url" content="https://back7.co/home/incomplete-cyberdeck"/>
+<meta itemprop="description" content="Over the last year and a half I’ve done a number of cyberdeck designs, including a few before I even thought of them as such.  Even though I’d read Neuromancer decades ago, I just hadn’t made the connection.  Connecting with the larger community, I am inspired by the creativity of many people, altho"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5ffde7c793c5df5a6c8abda8/1614284474512/IO+Side+Panel+Adapter.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5ffde7c793c5df5a6c8abda8/1614284474512/IO+Side+Panel+Adapter.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5ffde7c793c5df5a6c8abda8/1614284474512/IO+Side+Panel+Adapter.png?format=1500w"/>
+<meta itemprop="author" content="Jay Doscher"/>
+<meta itemprop="datePublished" content="2021-02-25T12:21:13-0800"/>
+<meta itemprop="dateModified" content="2021-02-25T12:21:14-0800"/>
+<meta itemprop="headline" content="Incomplete Cyberdeck Design: The Modular Multideck"/>
+<meta itemprop="publisher" content="BACK7"/>
+<meta name="twitter:title" content="Incomplete Cyberdeck Design: The Modular Multideck — BACK7"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5ffde7c793c5df5a6c8abda8/1614284474512/IO+Side+Panel+Adapter.png?format=1500w"/>
+<meta name="twitter:url" content="https://back7.co/home/incomplete-cyberdeck"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Over the last year and a half I’ve done a number of cyberdeck designs, including a few before I even thought of them as such.  Even though I’d read Neuromancer decades ago, I just hadn’t made the connection.  Connecting with the larger community, I am inspired by the creativity of many people, altho"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/7tIIyZzCMxONmcUcXeUY8ISx0CBRUHINkQfnZcxHncbfe0jgfFHN4UJLFRbh52jhWDmRjAIXjAsK5QJXF2BKZQIkwcZRZABqFg7sMPG0-cmCdY8c-WFGOW4uSabl52y0FfoDSWmyScmDSeBRZPoRdhXCjcBR-DS0jhvC-cmCdY8c-WFGOW4uSabl52y0FfoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOYiaikoKjAFnFkoRdkUaiaS0-cmCdY8c-WFGOW4uSabl52y0FfoDSWmyScmDSeBRZPoRdhXK2cUXjkuKdhszdcqlwQSuH6qJxkCbMg6IJMJ7fbRrHUMMeMt6MTMgyOn7E39.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-803eb1b24e5b66378fb9f-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-803eb1b24e5b66378fb9f-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-13ea7a8552a69cc61c748-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-13ea7a8552a69cc61c748-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-69a1973260902ba7c9d1d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-69a1973260902ba7c9d1d-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-c5fbc3f5d4c14a3ee3b22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-c5fbc3f5d4c14a3ee3b22-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d3d137c2757e894533d46-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d3d137c2757e894533d46-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-126e3a849024f3014d9ec-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-126e3a849024f3014d9ec-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-cbf892d9da6f73bb0331c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-cbf892d9da6f73bb0331c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-5731ef3af387cd419fcfe-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-5731ef3af387cd419fcfe-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-263b970e8eec579b133f4-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-263b970e8eec579b133f4-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-a352d2bb01b07a1e65146-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-a352d2bb01b07a1e65146-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49713611b31c3a7027d37-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-23d33c1e0bb90f0f6446f-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-d01794933983df412448b-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-9935609888c4600d800d5-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-0ac30ee6f0a1595720424-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-55862de0a18a9270889af-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-8859d3fb8d85a389d38d9-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-804cfe707d920f9acd56a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-333a2b6646af932cdb099-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-dac2fe6aa92adc937d97b-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-a4d72fc510f4a01b65682-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-481c24735d3230e1bf8b6-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-6c9a2ebe8e3d336f8c820-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d6415a652c76837b8f512-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-0d2c8feaa5d7ecd445ef1-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-12cef83c73820e62b1d6a-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-ee834b7cdcccb1ef05194-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-eff70f71dd8b87ecf79fc-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-62448b2f62d89859228c6-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-558d788b0df538c248e23-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-dfd5782f5ccd1af0f742b-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-10714fd165f0956c133ad-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-1378e0d5a0b7c22873fb7-min.en-US.js"}},"pageType":50,"website":{"id":"5caa4adb92441be122fcead4","identifier":"jellyfish-rust-88n4","websiteType":4,"contentModifiedOn":1646433621766,"cloneable":false,"hasBeenCloneable":false,"developerMode":true,"siteStatus":{},"language":"en-US","timeZone":"US/Pacific","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"BACK7","fullSiteTitle":"Incomplete Cyberdeck Design: The Modular Multideck \u2014 BACK7","siteDescription":"","location":{"addressLine1":"","addressLine2":"California","addressCountry":"United States"},"socialLogoImageId":"5d7a9d80807d844a6523dacc","shareButtonOptions":{"3":true,"4":true,"2":true,"6":true,"1":true},"socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568316800492-LVEKEQE1L11L2RALACIE/Back7+Logo.jpg","authenticUrl":"https://back7.co","internalUrl":"https://jellyfish-rust-88n4.squarespace.com","baseUrl":"https://back7.co","primaryDomain":"back7.co","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":64,"screenname":"Instagram","addedOn":1568574670251,"profileUrl":"https://www.instagram.com/back7.co/","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"e1faeddddfdfa83540991ac9bf620f209bea07fa536428c94a78ebcc1c367bb7","captchaSettings":{"siteKey":"6Lczt8UUAAAAAHEH8xFVcKWCjYwRS38-9BPb1WWf","enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5caa4adb92441be122fcead6","websiteId":"5caa4adb92441be122fcead4","subjects":[],"country":"US","state":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"store","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":true,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","AUD","CAD","CHF","CZK","DKK","EUR","GBP","HKD","ILS","MXN","MYR","NOK","NZD","PHP","PLN","RUB","SEK","SGD","THB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"mailingListDescription":"Sign up to receive news and updates. We won\u2019t sell your info, ever.","sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":true,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively.","cookieBannerTheme":"DARK","cookieBannerVariant":"BAR","cookieBannerPosition":"BOTTOM","cookieBannerCtaVariant":"ICON","cookieBannerCtaText":"OK","cookieBannerAcceptType":"OPT_IN"},"websiteCloneable":false,"collection":{"title":"Build Log","id":"5d7a9da8eb857f5277e8f2d6","fullUrl":"/home","type":1,"permissionType":1},"item":{"title":"Incomplete Cyberdeck Design: The Modular Multideck","id":"5ffde7c793c5df5a6c8abda8","fullUrl":"/home/incomplete-cyberdeck","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"Circular","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Thumbnails","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(255,255,255,1)","galleryArrowColor":"rgba(0,0,0,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(255,255,255,0.7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","maxNumberColumns":"4","minColumnWidth":"400","tweak-blog-list-grid-alignment":"Top","tweak-blog-list-grid-narrow-columns":"false","tweak-blog-list-max-width":"Full","tweak-crop-images":"Vertical","tweak-infinite-scroll":"true","tweak-product-item-image-zoom-factor":"2.5","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"4","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-show-progress-indicator":"true","tweak-user-account-link-position":"With Nav"},"templateId":"5de5717d83bec649d34ab8e3","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5caa4adb92441be122fcead4/0/scripts/","betaFeatureFlags":["commerce_clearpay","campaigns_hide_deleted_automations_panel","nested_categories_migration_enabled","campaigns_alt_text","commerce_restock_notifications","startup_checklist","campaigns_global_uc_ab","reduce_general_search_api_traffic","commerce_etsy_shipping_import","campaigns_content_editing_survey","campaigns_blog_product_image_editor","commerce_pdp_layouts_ga","campaigns_banner_reduce_size","member_areas_spanish_interviews","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","viewer-role-contributor-invites","product_composer_feedback_form_on_save","commerce_category_id_discounts_enabled","customer_account_creation_recaptcha","campaigns_section_reorder_arrows","commerce_site_visitor_metrics","category-delete-product-service-enabled","member_areas_schedule_interview","background_art_onboarding","commerce_etsy_product_import","campaigns_new_subscriber_search","commerce_afterpay_pdp","campaigns_thumbnail_layout","campaigns_audience_card"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://back7.co/home?format=rss" />
+<script type="application/ld+json">{"url":"https://back7.co","name":"BACK7","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"address":"California\nUnited States","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><script type="application/ld+json">{"name":"Incomplete Cyberdeck Design: The Modular Multideck \u2014 BACK7","url":"https://back7.co/home/incomplete-cyberdeck","datePublished":"2021-02-25T12:21:13-0800","dateModified":"2021-02-25T12:21:14-0800","headline":"Incomplete Cyberdeck Design: The Modular Multideck","author":"Jay Doscher","publisher":{"name":"BACK7","logo":{"@type":"ImageObject"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5caa4adb92441be122fcead4/5d7a9da8eb857f5277e8f2d6/5ffde7c793c5df5a6c8abda8/1614284474512/IO+Side+Panel+Adapter.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5caa4adb92441be122fcead4/46/5de5717d83bec649d34ab8e3/5de5717d83bec649d34ab8f7/0/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-104394574-1');</script><!-- End of Squarespace Headers -->
+  <script>
+    (function(){
+      var touchTest = 'ontouchstart' in window || navigator.msMaxTouchPoints;
+      if (!touchTest) {
+        document.documentElement.className = document.documentElement.className.replace(/touch\-styles/g, '');
+      }
+    })();</script>
+  </head>
+  <body id="item-5ffde7c793c5df5a6c8abda8" class="tweak-header-background-color-on tweak-main-blocks-full-bleed  tweak-ui-icon-weight-light tweak-navigation-link-spacing-medium  tweak-site-branding-borders-bottom  tweak-site-branding-layout-inline tweak-show-search-in-header tweak-show-social-in-header tweak-user-account-link-position-with-nav tweak-quote-block-alignment-left tweak-blog-list-grid-alignment-top tweak-blog-list-max-width-full  tweak-crop-images-vertical    tweak-infinite-scroll  tweak-blog-text-alignment-center tweak-blog-promoted-meta-categories tweak-blog-date-style-above-title tweak-blog-show-divider tweak-show-blog-item-banner-image tweak-blog-item-banner-image-width-normal tweak-show-blog-item-sidebar tweak-show-blog-item-author-profile-in-sidebar tweak-show-progress-indicator tweak-template-social-icon-style-regular     event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address  event-list-like-and-share-buttons  event-like-and-share-buttons event-excerpts event-list-cta-button event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-thumbnails gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-circular gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-top tweak-product-list-filter-alignment-left tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-slideshow tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-rounded tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-solid tweak-product-item-details-add-to-cart-button-shape-rounded tweak-product-item-details-add-to-cart-button-padding-small tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-rectangle tweak-product-badge-position-top-left tweak-product-badge-inset-floating newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-rounded medium-button-style-solid medium-button-shape-rounded large-button-style-solid large-button-shape-rounded image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show tweak-share-buttons-labels-show tweak-share-buttons-counts-show  tweak-share-buttons-standard-background-color native-currency-code-usd collection-5d7a9da8eb857f5277e8f2d6 view-item collection-type-blog collection-layout-default mobile-style-available" data-controller="SyncHeader, AddScrollingClass, HeaderScroll, BodyMinHeight">
+    <div class="nav-close-overlay">
+
+    </div>
+    <div class="nav-close-toggle-wrapper" id="navCloseToggleWrapper">
+      <a class="nav-toggle-close-label responsive-position--left" id="navCloseToggle" data-controller="NavToggle">
+        <svg class="Icon Icon--close close-icon" viewBox="0 0 18 18">
+          <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+        </svg>
+      </a>
+    </div>
+    <div id="sideTrayWrapper" class="sidetray-wrapper">
+      <div class="main-nav-wrapper responsive-padding--top responsive-padding--bottom" data-controller="NavOverflow">
+        <div class="nav-blocks-wrapper">
+          
+<nav id="mainNavigation" class="main-navigation" role="navigation" data-content-field="navigation">
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection nav-link--homepage" id="id-61ccf762476ad24119685085">
+          <a href="/">
+            <span>Home</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-61ccf2908052743bdfa2c6c4">
+          <a href="/services">
+            <span>Services</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection nav-link--active" id="id-5d7a9da8eb857f5277e8f2d6">
+          <a href="/home">
+            <span>Build Log</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5e07e352e3302c0f49b4e4cf">
+          <a href="/store">
+            <span>Store</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5d929570ae6a5a3a7f7895cf">
+          <a href="/post">
+            <span>Archive</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5d82a0111542f64066861cf7">
+          <a href="/about">
+            <span>About</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+
+    
+      
+
+        
+        <div class="nav-link--collection" id="id-5d82a0fa04c37d60a63949fe">
+          <a href="/contact">
+            <span>Contact</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+
+  
+  
+</nav>
+
+
+          <div class="sqs-layout sqs-grid-1 columns-1 empty" data-layout-label="Nav Blocks" data-type="block-field" data-updated-on="1455207263820" id="navBlocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"></div></div></div>
+        </div>
+      </div><!--
+      --><div class="sidetray-blocks responsive-padding--top responsive-padding--bottom" data-controller="SidetrayBlocksOverflow">
+        <div class="sidetray-blocks-wrapper">
+          <div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Sidetray Blocks" data-type="block-field" data-updated-on="1640823533628" id="sideTrayBlocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-afaf45966693fd6837ff"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:557px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:97.8456039428711%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568840220914-JUMWDD1YYPGSM0WBARVK/Back7+Logo.jpg" alt="Back7 Logo.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568840220914-JUMWDD1YYPGSM0WBARVK/Back7+Logo.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1568840220914-JUMWDD1YYPGSM0WBARVK/Back7+Logo.jpg" data-image-dimensions="557x545" data-image-focal-point="0.5,0.5" alt="Back7 Logo.jpg" data-load="false" data-image-id="5d829a1caef68661e4619953" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_11_1454611709348_3786"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Welcome to back7.co</h2><p style="text-align:center;white-space:pre-wrap;" class="">All images are copyright back7 LLC unless specifically licensed otherwise.  Please contact licensing@back7.co for permission to re-post any assets shown on this site.</p></div></div><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_7_1454631551971_9407"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-medium social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+        </div>
+      </div>
+    </div>
+
+    <form class="header-search-form" id="headerSearch" action="/search" method="get">
+      <input class="header-search-form-input" name="q" placeholder="Search" type="text" spellcheck="false" value="" autocomplete="off">
+    </form>
+
+    
+    
+    <div class="mobile-social">
+      <nav class="sqs-template-social-icons sqs-svg-icon--list" data-content-field="connected-accounts">
+        
+
+
+  <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+      </nav>
+    </div>
+    
+    
+
+    <div id="site" class="site-container clearfix">
+
+      <div class="sqs-announcement-bar-dropzone header-announcement-wrapper responsive-padding--left responsive-padding--right" id="headerAnnouncementWrapper">
+        <header id="header" class="site-header loading" role="banner">
+          <a class="nav-toggle-label flex-item" id="navToggle" data-controller="NavToggle">
+            <svg class="Icon Icon--hamburger nav-toggle-label-icon" viewBox="0 0 26 18">
+              <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even"></use>
+            </svg>
+          </a>
+
+          <div class="logo-wrapper flex-item">
+          
+            
+              <div class="site-title branding" data-content-field="site-title"><a href="/"><span class="site-title-text">BACK7</span></a></div>
+            
+          
+          </div>
+
+          
+          
+           <nav class="header-special-social--shown-on-collapse sqs-template-social-icons sqs-svg-icon--list">
+             
+
+
+  <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+           </nav>
+          
+          
+
+          <div class="header-special flex-item">
+            <div class="social-search-wrapper cart-visible">
+              <div class="social-ellipsis" id="socialEllipsis" data-controller="SocialToggle">
+                <svg class="ellipsis-icon" viewBox="0 0 100 24">
+                  <use xlink:href="/assets/ui-icons.svg#ellipsis-icon"></use>
+                </svg>
+                <svg class="social-close-icon Icon Icon--close" viewBox="0 0 18 18">
+                  <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+                </svg>
+              </div><!--
+               
+               
+                --><nav class="header-special-social sqs-template-social-icons sqs-svg-icon--list" data-content-field="connected-accounts">
+                  
+
+
+  <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+                </nav><!--
+               
+               
+             --><a href="/search" rel="search" class="header-search" data-controller="SearchToggle">
+                <svg class="Icon Icon--search search-icon" viewBox="0 0 20 20" shape-rendering="geometricPrecision">
+                  <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                </svg>
+                <svg class="Icon Icon--close search-close-icon" viewBox="0 0 18 18">
+                  <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+                </svg>
+               </a>
+              </div><!--
+              --><!--
+              --><a href="/cart" class="sqs-custom-cart custom-cart">
+              <div class="custom-cart-bag">
+                <svg class="Icon Icon--bag custom-cart-bag-icon" viewBox="0 0 34 38">
+                  <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon--odd"></use>
+                  <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon--even"></use>
+                </svg>
+                <span class="sqs-cart-quantity">0</span>
+              </div>
+            </a>
+          </div>
+        </header>
+      </div>
+
+      <main id="page" class="site-page loading responsive-padding--left responsive-padding--right site-page--blog-item" role="main" data-content-field="main-content" data-controller="FadeInContent">
+
+        <div class="blog-wrapper" data-content-field="main-content" data-item-id="5ffde7c793c5df5a6c8abda8">
+  
+  <section class="blog-item-banner has-main-image">
+    <div class="blog-item-banner-image" data-controller="SetUpBannerImage"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614284436645-AJFSXKQHAAT2FF4STXY0/IO+Side+Panel+Adapter.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614284436645-AJFSXKQHAAT2FF4STXY0/IO+Side+Panel+Adapter.png" data-image-dimensions="1561x1132" data-image-focal-point="0.5,0.5" alt="Incomplete Cyberdeck Design: The Modular Multideck"  data-load="false" /></div>
+  </section>
+  
+
+  <div class="main-content blog-view-item clearfix">
+    <input id="show-comments" type="checkbox" />
+    <article id="article-5ffde7c793c5df5a6c8abda8" class="entry--item h-entry clearfix hentry author-jay-doscher post-type-text">
+      
+      <div class="blog-item-title">
+        <time class="dt-published date-callout" datetime="2021-02-25" pubdate>
+          <div class="date-wrapper">
+            <span class="month">Feb </span><span class="day">25</span>
+          </div>
+        </time>
+        <h2 class="entry-title entry-title--large p-name" itemprop="headline" data-content-field="title"><time class="dt-published date-highlight" itemprop="datePublished" datetime="2021-02-25" pubdate>Feb 25 </time>Incomplete Cyberdeck Design: The Modular Multideck</h2>
+
+        <div class="meta-wrapper">
+          <div class="blog-meta-item blog-meta-author p-author author"><a href="/home?author=5caa4acd7e697db3c30acc67" class="blog-author-name">Jay Doscher</a> </div>
+
+          
+        </div>
+      </div>
+      
+      <div class="blog-item-content-wrapper" data-controller="BlogProgressBar">
+        
+        <div class="pie-wrapper" id="pieWrapper">
+          <div class="pie pie--left" id="pieLeft"></div>
+          <div class="pie pie--right hide" id="pieRight"></div>
+          <div class="mask mask--right hide" id="pieMask"></div>
+          <div class="mask mask--left" id="maskLeft"></div>
+        </div>
+        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1610476647307" id="item-5ffde7c793c5df5a6c8abda8"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8147f0329347bdf88ffd"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Over the last year and a half I’ve done a number of cyberdeck designs, including a few before I even thought of them as such.  Even though I’d read Neuromancer decades ago, I just hadn’t made the connection.  Connecting with the larger community, I am inspired by the creativity of many people, although I can’t say that the community really supports this beyond a hobby.  That may doom the community or free it, but it’s not for me to judge or predict how things will turn out.</p><p class="" style="white-space:pre-wrap;">Instead, I am writing this article with as much detail as possible to tell the Cyberdeck community, “So long, and thanks for all the fish”.  I thought about many ways to say farewell as I move onto other projects, and I’ve played with a few designs.  Let me review the basic form factors for decks that I’ve worked with- there are many more, but these are my designs:</p><h3 style="white-space:pre-wrap;"><strong>The Pelican Case</strong></h3><p class="" style="white-space:pre-wrap;">Pelican cases are a frequent and common sight in different rugged scenarios, whether you need to transport dangerous equipment or just need a safe place for a digital camera.  I first built a prototype robot back in BBBB using a Pelican case, and soon after built my first “deck”, the Raspberry Pi Field Unit.  The FU was a too-subtle joke at the folks who were repurposing a solar design and code at the time, but I quickly moved on from portable solar and had far more fun with the RPFU.  Here’s a quick gallery of that design:</p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:false,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;60380077ded16e0c97c64bc1&quot;,&quot;controls&quot;:false,&quot;design&quot;:&quot;slideshow&quot;,&quot;meta-position&quot;:&quot;bottom&quot;,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;show-meta-on-hover&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnail-strip-height&quot;:80,&quot;thumbnail-strip-margin&quot;:20,&quot;thumbnails&quot;:true,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;60380077ded16e0c97c64bc1&quot;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:false&#125;" data-block-type="8" id="block-yui_3_17_2_1_1614263364417_124918"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  
+  sqs-gallery-has-thumbnails
+
+  
+    sqs-gallery-block-show-meta sqs-gallery-block-meta-position-bottom
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876376-COPEKCCPK8Q7HMMGAO3U/IMG-20190903_053831_1970-75976798.jpg" alt="IMG-20190903_053831_1970-75976798.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876376-COPEKCCPK8Q7HMMGAO3U/IMG-20190903_053831_1970-75976798.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876376-COPEKCCPK8Q7HMMGAO3U/IMG-20190903_053831_1970-75976798.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1970-75976798.jpg" data-load="false" data-image-id="6038007a60897d6c793b43ab" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871495-L0ETZUNWVSEPF97IOZJJ/IMG_20190903_053913_964.jpg" alt="IMG_20190903_053913_964.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871495-L0ETZUNWVSEPF97IOZJJ/IMG_20190903_053913_964.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871495-L0ETZUNWVSEPF97IOZJJ/IMG_20190903_053913_964.jpg" data-image-dimensions="1080x720" data-image-focal-point="0.5,0.5" alt="IMG_20190903_053913_964.jpg" data-load="false" data-image-id="603800779c01ac3c9c7f383d" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871574-I7PIOMR0AST6K04YFCYO/IMG_20190903_053913_966.jpg" alt="IMG_20190903_053913_966.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871574-I7PIOMR0AST6K04YFCYO/IMG_20190903_053913_966.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871574-I7PIOMR0AST6K04YFCYO/IMG_20190903_053913_966.jpg" data-image-dimensions="1080x720" data-image-focal-point="0.5,0.5" alt="IMG_20190903_053913_966.jpg" data-load="false" data-image-id="60380077d2b2a562b8056465" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873928-0Y0WS69LM5BFFTSHNVIQ/IMG-20190903_053831_1950-75976800.jpg" alt="IMG-20190903_053831_1950-75976800.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873928-0Y0WS69LM5BFFTSHNVIQ/IMG-20190903_053831_1950-75976800.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873928-0Y0WS69LM5BFFTSHNVIQ/IMG-20190903_053831_1950-75976800.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1950-75976800.jpg" data-load="false" data-image-id="603800777a42504cdb9d8990" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873718-KBO3D5QNRAH3LNKPXXUR/IMG-20190903_053831_1950-75976801.jpg" alt="IMG-20190903_053831_1950-75976801.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873718-KBO3D5QNRAH3LNKPXXUR/IMG-20190903_053831_1950-75976801.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873718-KBO3D5QNRAH3LNKPXXUR/IMG-20190903_053831_1950-75976801.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1950-75976801.jpg" data-load="false" data-image-id="603800787855080f9e28ee64" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876515-RAJRMTEZ1SXS6LCM75QC/IMG-20190903_053831_1960-75976799.jpg" alt="IMG-20190903_053831_1960-75976799.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876515-RAJRMTEZ1SXS6LCM75QC/IMG-20190903_053831_1960-75976799.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876515-RAJRMTEZ1SXS6LCM75QC/IMG-20190903_053831_1960-75976799.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1960-75976799.jpg" data-load="false" data-image-id="6038007a4013ae0c3b07c077" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+  
+
+    <div class="sqs-gallery-thumbnails" >
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 1"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876376-COPEKCCPK8Q7HMMGAO3U/IMG-20190903_053831_1970-75976798.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876376-COPEKCCPK8Q7HMMGAO3U/IMG-20190903_053831_1970-75976798.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1970-75976798.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 2"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871495-L0ETZUNWVSEPF97IOZJJ/IMG_20190903_053913_964.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871495-L0ETZUNWVSEPF97IOZJJ/IMG_20190903_053913_964.jpg" data-image-dimensions="1080x720" data-image-focal-point="0.5,0.5" alt="IMG_20190903_053913_964.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 3"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871574-I7PIOMR0AST6K04YFCYO/IMG_20190903_053913_966.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282871574-I7PIOMR0AST6K04YFCYO/IMG_20190903_053913_966.jpg" data-image-dimensions="1080x720" data-image-focal-point="0.5,0.5" alt="IMG_20190903_053913_966.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 4"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873928-0Y0WS69LM5BFFTSHNVIQ/IMG-20190903_053831_1950-75976800.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873928-0Y0WS69LM5BFFTSHNVIQ/IMG-20190903_053831_1950-75976800.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1950-75976800.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 5"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873718-KBO3D5QNRAH3LNKPXXUR/IMG-20190903_053831_1950-75976801.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282873718-KBO3D5QNRAH3LNKPXXUR/IMG-20190903_053831_1950-75976801.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1950-75976801.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 6"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876515-RAJRMTEZ1SXS6LCM75QC/IMG-20190903_053831_1960-75976799.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282876515-RAJRMTEZ1SXS6LCM75QC/IMG-20190903_053831_1960-75976799.jpg" data-image-dimensions="2160x1441" data-image-focal-point="0.5,0.5" alt="IMG-20190903_053831_1960-75976799.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+    </div>
+
+  
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614263364417_124995"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">More recently I created the Raspberry Pi Recovery Kit, and that’s what really connected me to the community.  I originally created it for myself, but learned a ton about small-scale manufacturing, small business sales, and designing products for sale.  You can see all the photos and read more about the Raspberry Pi Recovery Kit (RPRK) <a href="https://back7.co/home/raspberry-pi-recovery-kit">here</a>.</p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:false,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;6037fe9bd2b2a562b80518ff&quot;,&quot;controls&quot;:true,&quot;design&quot;:&quot;slideshow&quot;,&quot;show-meta&quot;:false,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnail-strip-height&quot;:80,&quot;thumbnail-strip-margin&quot;:20,&quot;thumbnails&quot;:true,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;6037fe9bd2b2a562b80518ff&quot;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:false&#125;" data-block-type="8" id="block-yui_3_17_2_1_1614263364417_98600"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  sqs-gallery-has-controls
+  sqs-gallery-has-thumbnails
+
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282397597-HNA79TE5OQ5KZKKB1KLU/JAY01336.jpg" alt="JAY01336.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282397597-HNA79TE5OQ5KZKKB1KLU/JAY01336.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282397597-HNA79TE5OQ5KZKKB1KLU/JAY01336.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="JAY01336.jpg" data-load="false" data-image-id="6037fe9bd3eeed2a6fa44758" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282402775-9Y3NPE97XN996T1WEV2X/JAY01350.jpg" alt="JAY01350.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282402775-9Y3NPE97XN996T1WEV2X/JAY01350.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282402775-9Y3NPE97XN996T1WEV2X/JAY01350.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01350.jpg" data-load="false" data-image-id="6037fe9b4013ae0c3b077d27" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407512-TFCCQLFR2V7O03AXU697/JAY01352.jpg" alt="JAY01352.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407512-TFCCQLFR2V7O03AXU697/JAY01352.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407512-TFCCQLFR2V7O03AXU697/JAY01352.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01352.jpg" data-load="false" data-image-id="6037fe9ebc535c1a809aa50f" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407768-CJZKPFPRPRKFTJZ990D6/JAY01353.jpg" alt="JAY01353.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407768-CJZKPFPRPRKFTJZ990D6/JAY01353.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407768-CJZKPFPRPRKFTJZ990D6/JAY01353.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="JAY01353.jpg" data-load="false" data-image-id="6037fea39c01ac3c9c7f049b" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282411050-59Q153AAPGPO8SPWE2C6/JAY01355.jpg" alt="JAY01355.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282411050-59Q153AAPGPO8SPWE2C6/JAY01355.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282411050-59Q153AAPGPO8SPWE2C6/JAY01355.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01355.jpg" data-load="false" data-image-id="6037fea801d44e02e9069084" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282410099-F04PHPBA52R99Q0T9P9S/JAY01358.jpg" alt="JAY01358.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282410099-F04PHPBA52R99Q0T9P9S/JAY01358.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282410099-F04PHPBA52R99Q0T9P9S/JAY01358.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="JAY01358.jpg" data-load="false" data-image-id="6037fea87855080f9e28b46f" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282447297-S88Y7P20BW0S2Y4802IV/JAY01371.jpg" alt="JAY01371.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282447297-S88Y7P20BW0S2Y4802IV/JAY01371.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282447297-S88Y7P20BW0S2Y4802IV/JAY01371.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01371.jpg" data-load="false" data-image-id="6037feaa61d4ca524c676f13" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282446440-61OOXRCAY6LREFWQ9FW3/JAY01376.jpg" alt="JAY01376.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282446440-61OOXRCAY6LREFWQ9FW3/JAY01376.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282446440-61OOXRCAY6LREFWQ9FW3/JAY01376.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01376.jpg" data-load="false" data-image-id="6037feabee4fad7f513ea806" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489530-RKFLZ434B4ZQZG7UNFFZ/JAY01383.jpg" alt="JAY01383.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489530-RKFLZ434B4ZQZG7UNFFZ/JAY01383.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489530-RKFLZ434B4ZQZG7UNFFZ/JAY01383.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01383.jpg" data-load="false" data-image-id="6037fecfded16e0c97c61516" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282485341-KQBSRL96SDRH1AB24TIO/JAY01384.jpg" alt="JAY01384.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282485341-KQBSRL96SDRH1AB24TIO/JAY01384.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282485341-KQBSRL96SDRH1AB24TIO/JAY01384.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01384.jpg" data-load="false" data-image-id="6037fed06374bc120889e083" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489648-7RC3OYXAZC30PZRYPQR6/JAY01388.jpg" alt="JAY01388.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489648-7RC3OYXAZC30PZRYPQR6/JAY01388.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489648-7RC3OYXAZC30PZRYPQR6/JAY01388.jpg" data-image-dimensions="2500x1654" data-image-focal-point="0.5,0.5" alt="JAY01388.jpg" data-load="false" data-image-id="6037fef60f034c65c3ac4105" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282529693-VE4A8QWVBSSKQXFGA19T/JAY01400.jpg" alt="JAY01400.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282529693-VE4A8QWVBSSKQXFGA19T/JAY01400.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282529693-VE4A8QWVBSSKQXFGA19T/JAY01400.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01400.jpg" data-load="false" data-image-id="6037fefa9bd14f61e3eeab58" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282527403-6MUY91L527J0FYEE0FU3/JAY01402.jpg" alt="JAY01402.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282527403-6MUY91L527J0FYEE0FU3/JAY01402.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282527403-6MUY91L527J0FYEE0FU3/JAY01402.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01402.jpg" data-load="false" data-image-id="6037fefb9c01ac3c9c7f12b2" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282559363-2WNL4JFE6N5J2T2EV1AP/JAY01411.jpg" alt="JAY01411.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282559363-2WNL4JFE6N5J2T2EV1AP/JAY01411.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282559363-2WNL4JFE6N5J2T2EV1AP/JAY01411.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01411.jpg" data-load="false" data-image-id="6037ff2101d44e02e906977b" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282560697-MFOPPV2AYEHXBJUDQ2KI/JAY01417.jpg" alt="JAY01417.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282560697-MFOPPV2AYEHXBJUDQ2KI/JAY01417.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282560697-MFOPPV2AYEHXBJUDQ2KI/JAY01417.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01417.jpg" data-load="false" data-image-id="6037ff23d3c6db2e11ec1ae7" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282590310-469HLEKDXJI4BHW2VW6S/JAY01418.jpg" alt="JAY01418.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282590310-469HLEKDXJI4BHW2VW6S/JAY01418.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282590310-469HLEKDXJI4BHW2VW6S/JAY01418.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01418.jpg" data-load="false" data-image-id="6037ff415745e922b2832ab0" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282591372-KDWF5DBULP53S2TK7P96/JAY01419.jpg" alt="JAY01419.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282591372-KDWF5DBULP53S2TK7P96/JAY01419.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282591372-KDWF5DBULP53S2TK7P96/JAY01419.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01419.jpg" data-load="false" data-image-id="6037ff42bc535c1a809ac33a" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614994-IF73WX7KRXBIGHBV3JGB/JAY01423.jpg" alt="JAY01423.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614994-IF73WX7KRXBIGHBV3JGB/JAY01423.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614994-IF73WX7KRXBIGHBV3JGB/JAY01423.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01423.jpg" data-load="false" data-image-id="6037ff5f952f3c75083ebbfc" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282605237-DQDDQR3TLYNTGYN60QSR/JAY01430.jpg" alt="JAY01430.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282605237-DQDDQR3TLYNTGYN60QSR/JAY01430.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282605237-DQDDQR3TLYNTGYN60QSR/JAY01430.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01430.jpg" data-load="false" data-image-id="6037ff624d5eca098041789e" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614114-FXJH26LIGGAWUB5J192D/JAY01440.jpg" alt="JAY01440.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614114-FXJH26LIGGAWUB5J192D/JAY01440.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614114-FXJH26LIGGAWUB5J192D/JAY01440.jpg" data-image-dimensions="2500x1406" data-image-focal-point="0.5,0.5" alt="JAY01440.jpg" data-load="false" data-image-id="6037ff6e88fca80c99f8a92b" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+  
+
+    <div class="sqs-gallery-thumbnails" >
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 1"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282397597-HNA79TE5OQ5KZKKB1KLU/JAY01336.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282397597-HNA79TE5OQ5KZKKB1KLU/JAY01336.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="JAY01336.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 2"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282402775-9Y3NPE97XN996T1WEV2X/JAY01350.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282402775-9Y3NPE97XN996T1WEV2X/JAY01350.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01350.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 3"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407512-TFCCQLFR2V7O03AXU697/JAY01352.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407512-TFCCQLFR2V7O03AXU697/JAY01352.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01352.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 4"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407768-CJZKPFPRPRKFTJZ990D6/JAY01353.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282407768-CJZKPFPRPRKFTJZ990D6/JAY01353.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="JAY01353.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 5"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282411050-59Q153AAPGPO8SPWE2C6/JAY01355.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282411050-59Q153AAPGPO8SPWE2C6/JAY01355.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01355.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 6"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282410099-F04PHPBA52R99Q0T9P9S/JAY01358.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282410099-F04PHPBA52R99Q0T9P9S/JAY01358.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="JAY01358.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 7"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282447297-S88Y7P20BW0S2Y4802IV/JAY01371.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282447297-S88Y7P20BW0S2Y4802IV/JAY01371.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01371.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 8"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282446440-61OOXRCAY6LREFWQ9FW3/JAY01376.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282446440-61OOXRCAY6LREFWQ9FW3/JAY01376.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01376.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 9"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489530-RKFLZ434B4ZQZG7UNFFZ/JAY01383.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489530-RKFLZ434B4ZQZG7UNFFZ/JAY01383.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01383.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 10"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282485341-KQBSRL96SDRH1AB24TIO/JAY01384.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282485341-KQBSRL96SDRH1AB24TIO/JAY01384.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01384.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 11"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489648-7RC3OYXAZC30PZRYPQR6/JAY01388.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282489648-7RC3OYXAZC30PZRYPQR6/JAY01388.jpg" data-image-dimensions="2500x1654" data-image-focal-point="0.5,0.5" alt="JAY01388.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 12"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282529693-VE4A8QWVBSSKQXFGA19T/JAY01400.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282529693-VE4A8QWVBSSKQXFGA19T/JAY01400.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01400.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 13"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282527403-6MUY91L527J0FYEE0FU3/JAY01402.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282527403-6MUY91L527J0FYEE0FU3/JAY01402.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01402.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 14"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282559363-2WNL4JFE6N5J2T2EV1AP/JAY01411.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282559363-2WNL4JFE6N5J2T2EV1AP/JAY01411.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01411.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 15"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282560697-MFOPPV2AYEHXBJUDQ2KI/JAY01417.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282560697-MFOPPV2AYEHXBJUDQ2KI/JAY01417.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01417.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 16"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282590310-469HLEKDXJI4BHW2VW6S/JAY01418.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282590310-469HLEKDXJI4BHW2VW6S/JAY01418.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01418.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 17"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282591372-KDWF5DBULP53S2TK7P96/JAY01419.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282591372-KDWF5DBULP53S2TK7P96/JAY01419.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01419.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 18"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614994-IF73WX7KRXBIGHBV3JGB/JAY01423.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614994-IF73WX7KRXBIGHBV3JGB/JAY01423.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01423.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 19"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282605237-DQDDQR3TLYNTGYN60QSR/JAY01430.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282605237-DQDDQR3TLYNTGYN60QSR/JAY01430.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY01430.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 20"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614114-FXJH26LIGGAWUB5J192D/JAY01440.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282614114-FXJH26LIGGAWUB5J192D/JAY01440.jpg" data-image-dimensions="2500x1406" data-image-focal-point="0.5,0.5" alt="JAY01440.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+    </div>
+
+  
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614263364417_98677"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>The ARM Terminal</strong></h3><p class="" style="white-space:pre-wrap;">Based on a shortage of desk space, I wanted to build a cyberdeck but for the desk- this project was still very print and labor intensive, but was one of my most fun builds- it’s a modular enclosure containing a Raspberry Pi and mounted to a monitor arm.  You can see a gallery below or read about it <a href="https://back7.co/home/arm-terminal">here</a>.</p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:false,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;6037fd95d3eeed2a6fa4252d&quot;,&quot;controls&quot;:true,&quot;design&quot;:&quot;slideshow&quot;,&quot;show-meta&quot;:false,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnail-strip-height&quot;:79,&quot;thumbnail-strip-margin&quot;:20,&quot;thumbnails&quot;:true,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;6037fd95d3eeed2a6fa4252d&quot;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:false&#125;" data-block-type="8" id="block-yui_3_17_2_1_1614263364417_59473"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  sqs-gallery-has-controls
+  sqs-gallery-has-thumbnails
+
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282138194-WVDZV360ESZNBT5AFPIC/120588161.jpg" alt="120588161.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282138194-WVDZV360ESZNBT5AFPIC/120588161.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282138194-WVDZV360ESZNBT5AFPIC/120588161.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588161.jpg" data-load="false" data-image-id="6037fd99449f581e05368be4" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134781-WHQARPV4DNFCPDJYSA85/120588128.jpg" alt="120588128.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134781-WHQARPV4DNFCPDJYSA85/120588128.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134781-WHQARPV4DNFCPDJYSA85/120588128.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588128.jpg" data-load="false" data-image-id="6037fd96459ebe6cd24ca89c" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134090-ZWGA542V24JKCC12J69K/120588135.jpg" alt="120588135.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134090-ZWGA542V24JKCC12J69K/120588135.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134090-ZWGA542V24JKCC12J69K/120588135.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588135.jpg" data-load="false" data-image-id="6037fd95d1dcc8274ac7a055" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134715-3W89YBR64HUYOILQG3DD/120588136.jpg" alt="120588136.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134715-3W89YBR64HUYOILQG3DD/120588136.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134715-3W89YBR64HUYOILQG3DD/120588136.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588136.jpg" data-load="false" data-image-id="6037fd967bfd9c5113615465" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282135162-QQPFXRQ8HC84R8VJ7KM2/120588138.jpg" alt="120588138.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282135162-QQPFXRQ8HC84R8VJ7KM2/120588138.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282135162-QQPFXRQ8HC84R8VJ7KM2/120588138.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588138.jpg" data-load="false" data-image-id="6037fd977c029f1ce0425529" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282136559-ONO9ZCWECWHWUGWHE57D/120588157.jpg" alt="120588157.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282136559-ONO9ZCWECWHWUGWHE57D/120588157.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282136559-ONO9ZCWECWHWUGWHE57D/120588157.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588157.jpg" data-load="false" data-image-id="6037fd97cc55585afeae7e5b" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282137542-05RZ4STV3HL6V9U63JVM/120588159.jpg" alt="120588159.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282137542-05RZ4STV3HL6V9U63JVM/120588159.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282137542-05RZ4STV3HL6V9U63JVM/120588159.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588159.jpg" data-load="false" data-image-id="6037fd97ee4fad7f513e849b" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140064-SB2Z49AQGCW3TU78BVWV/120588166.jpg" alt="120588166.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140064-SB2Z49AQGCW3TU78BVWV/120588166.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140064-SB2Z49AQGCW3TU78BVWV/120588166.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588166.jpg" data-load="false" data-image-id="6037fd9a60897d6c793aead0" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140955-J7Z4D99OLZHD560H9761/120588184.jpg" alt="120588184.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140955-J7Z4D99OLZHD560H9761/120588184.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140955-J7Z4D99OLZHD560H9761/120588184.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588184.jpg" data-load="false" data-image-id="6037fd9af15e404db1fe3511" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140857-MPK6KGZ7U8VQLRFZM13V/IMG_0245.jpg" alt="IMG_0245.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140857-MPK6KGZ7U8VQLRFZM13V/IMG_0245.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140857-MPK6KGZ7U8VQLRFZM13V/IMG_0245.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0245.jpg" data-load="false" data-image-id="6037fd9c4d5eca09804144e0" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282141638-BGI9L6OVV9HR68Z7HOLZ/IMG_0272.jpg" alt="IMG_0272.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282141638-BGI9L6OVV9HR68Z7HOLZ/IMG_0272.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282141638-BGI9L6OVV9HR68Z7HOLZ/IMG_0272.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0272.jpg" data-load="false" data-image-id="6037fd9dd1d0ce5860c1654c" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142103-F6NYP5SB6G5PUNYDFTQ6/IMG_0273.jpg" alt="IMG_0273.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142103-F6NYP5SB6G5PUNYDFTQ6/IMG_0273.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142103-F6NYP5SB6G5PUNYDFTQ6/IMG_0273.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0273.jpg" data-load="false" data-image-id="6037fd9d4013ae0c3b075bb7" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142849-CDVTA51D0YYHGE5KLPWU/IMG_0325.jpg" alt="IMG_0325.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142849-CDVTA51D0YYHGE5KLPWU/IMG_0325.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142849-CDVTA51D0YYHGE5KLPWU/IMG_0325.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0325.jpg" data-load="false" data-image-id="6037fd9ed3eeed2a6fa4276a" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+  
+
+    <div class="sqs-gallery-thumbnails" >
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 1"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282138194-WVDZV360ESZNBT5AFPIC/120588161.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282138194-WVDZV360ESZNBT5AFPIC/120588161.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588161.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 2"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134781-WHQARPV4DNFCPDJYSA85/120588128.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134781-WHQARPV4DNFCPDJYSA85/120588128.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588128.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 3"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134090-ZWGA542V24JKCC12J69K/120588135.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134090-ZWGA542V24JKCC12J69K/120588135.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588135.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 4"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134715-3W89YBR64HUYOILQG3DD/120588136.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282134715-3W89YBR64HUYOILQG3DD/120588136.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588136.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 5"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282135162-QQPFXRQ8HC84R8VJ7KM2/120588138.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282135162-QQPFXRQ8HC84R8VJ7KM2/120588138.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588138.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 6"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282136559-ONO9ZCWECWHWUGWHE57D/120588157.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282136559-ONO9ZCWECWHWUGWHE57D/120588157.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588157.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 7"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282137542-05RZ4STV3HL6V9U63JVM/120588159.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282137542-05RZ4STV3HL6V9U63JVM/120588159.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588159.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 8"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140064-SB2Z49AQGCW3TU78BVWV/120588166.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140064-SB2Z49AQGCW3TU78BVWV/120588166.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588166.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 9"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140955-J7Z4D99OLZHD560H9761/120588184.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140955-J7Z4D99OLZHD560H9761/120588184.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="120588184.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 10"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140857-MPK6KGZ7U8VQLRFZM13V/IMG_0245.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282140857-MPK6KGZ7U8VQLRFZM13V/IMG_0245.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0245.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 11"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282141638-BGI9L6OVV9HR68Z7HOLZ/IMG_0272.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282141638-BGI9L6OVV9HR68Z7HOLZ/IMG_0272.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0272.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 12"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142103-F6NYP5SB6G5PUNYDFTQ6/IMG_0273.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142103-F6NYP5SB6G5PUNYDFTQ6/IMG_0273.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0273.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 13"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142849-CDVTA51D0YYHGE5KLPWU/IMG_0325.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614282142849-CDVTA51D0YYHGE5KLPWU/IMG_0325.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="IMG_0325.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+    </div>
+
+  
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614263364417_59550"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>Alternative Enclosures, AKA the “Kuiper Deck”</strong></h3><p class="" style="white-space:pre-wrap;">As anyone who owns electronic components will tell you, organizational skills and techniques are pretty much the only thing from losing parts and buying them again- just because you can’t find the ones you already own.  I ended up ordering some plastic bins from McMaster Carr (more on them in a bit), and found that unless you needed something super-tough like a Pelican case, the HHHHH bins from McMaster Carr were cheaper and offered an easier way to get an enclosure rather than spend too much on semi-disposable Raspberry Pi enclosures that so many YouTube people are peddling these days.</p><p class="" style="white-space:pre-wrap;">The idea is simple, and my newer idea here- simply to press-fit 3D a printed frame and front panel into a plastic enclosure.  I just published the the <a href="https://back7.co/home/introducing-the-kuiper-deck">Kuiper Deck</a> a couple weeks ago.  A quick gallery is below, and the full article is <a href="https://back7.co/home/introducing-the-kuiper-deck">here</a>. </p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:false,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;603802d0d69fa03c6a50dfcc&quot;,&quot;controls&quot;:true,&quot;design&quot;:&quot;slideshow&quot;,&quot;show-meta&quot;:false,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnail-strip-height&quot;:79,&quot;thumbnail-strip-margin&quot;:20,&quot;thumbnails&quot;:true,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;603802d0d69fa03c6a50dfcc&quot;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:false&#125;" data-block-type="8" id="block-yui_3_17_2_1_1614263364417_141404"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  sqs-gallery-has-controls
+  sqs-gallery-has-thumbnails
+
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283499987-LM3XENEJIPNBXTOK1YMJ/JAY02643.jpg" alt="JAY02643.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283499987-LM3XENEJIPNBXTOK1YMJ/JAY02643.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283499987-LM3XENEJIPNBXTOK1YMJ/JAY02643.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02643.jpg" data-load="false" data-image-id="603802e841c355225b9f798d" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477361-QV7FLOFNQLKRFPMVT442/JAY02632.jpg" alt="JAY02632.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477361-QV7FLOFNQLKRFPMVT442/JAY02632.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477361-QV7FLOFNQLKRFPMVT442/JAY02632.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02632.jpg" data-load="false" data-image-id="603802d3afa0486178a78ce6" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474778-6FVIQJ0JBT2W2D21M2WP/JAY02630.jpg" alt="JAY02630.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474778-6FVIQJ0JBT2W2D21M2WP/JAY02630.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474778-6FVIQJ0JBT2W2D21M2WP/JAY02630.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02630.jpg" data-load="false" data-image-id="603802d04627a8305b6290e1" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474878-DJQPRX3D9SYN3DRNU554/JAY02631.jpg" alt="JAY02631.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474878-DJQPRX3D9SYN3DRNU554/JAY02631.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474878-DJQPRX3D9SYN3DRNU554/JAY02631.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02631.jpg" data-load="false" data-image-id="603802d0d3eeed2a6fa4d259" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477763-KZ0Q5E0DGZIHZ00QPHXO/JAY02633.jpg" alt="JAY02633.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477763-KZ0Q5E0DGZIHZ00QPHXO/JAY02633.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477763-KZ0Q5E0DGZIHZ00QPHXO/JAY02633.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02633.jpg" data-load="false" data-image-id="603802d4ded16e0c97c6abd3" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283479468-TVCK5JJ075J61L2QC99X/JAY02634.jpg" alt="JAY02634.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283479468-TVCK5JJ075J61L2QC99X/JAY02634.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283479468-TVCK5JJ075J61L2QC99X/JAY02634.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02634.jpg" data-load="false" data-image-id="603802d5c7a53835c4a26e5a" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483197-2UMLB1KSXEGM7MD9REYK/JAY02635.jpg" alt="JAY02635.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483197-2UMLB1KSXEGM7MD9REYK/JAY02635.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483197-2UMLB1KSXEGM7MD9REYK/JAY02635.jpg" data-image-dimensions="2048x3070" data-image-focal-point="0.5,0.5" alt="JAY02635.jpg" data-load="false" data-image-id="603802d6904c09649f257fe5" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483378-F2235ZEQTUR2QR5UFM99/JAY02636.jpg" alt="JAY02636.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483378-F2235ZEQTUR2QR5UFM99/JAY02636.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483378-F2235ZEQTUR2QR5UFM99/JAY02636.jpg" data-image-dimensions="2047x1334" data-image-focal-point="0.5,0.5" alt="JAY02636.jpg" data-load="false" data-image-id="603802d84627a8305b629146" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283486687-4XTP5SLN64K3R9LMUFBW/JAY02637.jpg" alt="JAY02637.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283486687-4XTP5SLN64K3R9LMUFBW/JAY02637.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283486687-4XTP5SLN64K3R9LMUFBW/JAY02637.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02637.jpg" data-load="false" data-image-id="603802dbddc21e24137dc5c0" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490108-F8UJEMJRXNY271UIIJNP/JAY02638.jpg" alt="JAY02638.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490108-F8UJEMJRXNY271UIIJNP/JAY02638.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490108-F8UJEMJRXNY271UIIJNP/JAY02638.jpg" data-image-dimensions="2048x3070" data-image-focal-point="0.5,0.5" alt="JAY02638.jpg" data-load="false" data-image-id="603802dc54a93a3ed4810a12" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490124-GIJ3X6H8WBGNL7BPOCOB/JAY02639.jpg" alt="JAY02639.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490124-GIJ3X6H8WBGNL7BPOCOB/JAY02639.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490124-GIJ3X6H8WBGNL7BPOCOB/JAY02639.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02639.jpg" data-load="false" data-image-id="603802df9990ef2f0220dbe5" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283494029-TXMUBAWW9MK62DM9IKWK/JAY02640.jpg" alt="JAY02640.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283494029-TXMUBAWW9MK62DM9IKWK/JAY02640.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283494029-TXMUBAWW9MK62DM9IKWK/JAY02640.jpg" data-image-dimensions="2048x3070" data-image-focal-point="0.5,0.5" alt="JAY02640.jpg" data-load="false" data-image-id="603802e37a42504cdb9de03a" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283496320-HGZ16T32WC9BDXUQZQK6/JAY02641.jpg" alt="JAY02641.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283496320-HGZ16T32WC9BDXUQZQK6/JAY02641.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283496320-HGZ16T32WC9BDXUQZQK6/JAY02641.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02641.jpg" data-load="false" data-image-id="603802e60c2f4875ba940cf2" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283500790-CNM364LO5E3G2CZAYV8P/JAY02642.jpg" alt="JAY02642.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283500790-CNM364LO5E3G2CZAYV8P/JAY02642.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283500790-CNM364LO5E3G2CZAYV8P/JAY02642.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY02642.jpg" data-load="false" data-image-id="603802e6dec6206d495008ad" data-type="image" />
+              
+
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+  
+
+    <div class="sqs-gallery-thumbnails" >
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 1"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283499987-LM3XENEJIPNBXTOK1YMJ/JAY02643.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283499987-LM3XENEJIPNBXTOK1YMJ/JAY02643.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02643.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 2"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477361-QV7FLOFNQLKRFPMVT442/JAY02632.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477361-QV7FLOFNQLKRFPMVT442/JAY02632.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02632.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 3"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474778-6FVIQJ0JBT2W2D21M2WP/JAY02630.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474778-6FVIQJ0JBT2W2D21M2WP/JAY02630.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02630.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 4"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474878-DJQPRX3D9SYN3DRNU554/JAY02631.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283474878-DJQPRX3D9SYN3DRNU554/JAY02631.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02631.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 5"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477763-KZ0Q5E0DGZIHZ00QPHXO/JAY02633.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283477763-KZ0Q5E0DGZIHZ00QPHXO/JAY02633.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02633.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 6"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283479468-TVCK5JJ075J61L2QC99X/JAY02634.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283479468-TVCK5JJ075J61L2QC99X/JAY02634.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02634.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 7"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483197-2UMLB1KSXEGM7MD9REYK/JAY02635.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483197-2UMLB1KSXEGM7MD9REYK/JAY02635.jpg" data-image-dimensions="2048x3070" data-image-focal-point="0.5,0.5" alt="JAY02635.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 8"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483378-F2235ZEQTUR2QR5UFM99/JAY02636.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283483378-F2235ZEQTUR2QR5UFM99/JAY02636.jpg" data-image-dimensions="2047x1334" data-image-focal-point="0.5,0.5" alt="JAY02636.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 9"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283486687-4XTP5SLN64K3R9LMUFBW/JAY02637.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283486687-4XTP5SLN64K3R9LMUFBW/JAY02637.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02637.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 10"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490108-F8UJEMJRXNY271UIIJNP/JAY02638.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490108-F8UJEMJRXNY271UIIJNP/JAY02638.jpg" data-image-dimensions="2048x3070" data-image-focal-point="0.5,0.5" alt="JAY02638.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 11"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490124-GIJ3X6H8WBGNL7BPOCOB/JAY02639.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283490124-GIJ3X6H8WBGNL7BPOCOB/JAY02639.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02639.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 12"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283494029-TXMUBAWW9MK62DM9IKWK/JAY02640.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283494029-TXMUBAWW9MK62DM9IKWK/JAY02640.jpg" data-image-dimensions="2048x3070" data-image-focal-point="0.5,0.5" alt="JAY02640.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 13"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283496320-HGZ16T32WC9BDXUQZQK6/JAY02641.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283496320-HGZ16T32WC9BDXUQZQK6/JAY02641.jpg" data-image-dimensions="2048x1366" data-image-focal-point="0.5,0.5" alt="JAY02641.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 14"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283500790-CNM364LO5E3G2CZAYV8P/JAY02642.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614283500790-CNM364LO5E3G2CZAYV8P/JAY02642.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="JAY02642.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+    </div>
+
+  
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614263364417_141483"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;"><strong>The Open and Unfinished Design</strong></h2><p class="" style="white-space:pre-wrap;">You might be wondering why I am rehashing old design concepts unless I’m doing a “Year in Review” article.  I figured out a design that lets you easily adapt the Pelican Case, the ARM Terminal, and the Parts Bin designs into a single, easily modifiable design.  I’m calling this the Modular Multideck, but I am leaving this for others to modify and bring it to life.   I’ll step through each part and explain what they do, along with the parts you can use- but I am intentionally leaving the deck incomplete to see where other people take it.</p><h3 style="white-space:pre-wrap;"><strong>Main Frame</strong></h3><p class="" style="white-space:pre-wrap;">The main frame, shown below has two variants, the one on the left is simpler, but uses more plastic and takes about an hour more to print.  It should be easier to drill into or modify if you plan on adding holes, ports, additional screw mounts, etc.  The one on the right has more openings for routing wires, or simply using less plastic.  I recommend at least 3 perimeters, no more than 5.  Top and bottom layers are optional.  If you look closely at the design you can see two small channels at the “top” where you can slide in a part.  This additional part may be needed for pressure fitting into a Pelican case, or you can use it to mount items externally if you’re putting it on a monitor arm.</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1610476648686_5233"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1680px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:55.71428680419922%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477014543-BB6JTXKA9FUN6IXDMK2O/multi-main+frame.png" alt="multi-main frame.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477014543-BB6JTXKA9FUN6IXDMK2O/multi-main+frame.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477014543-BB6JTXKA9FUN6IXDMK2O/multi-main+frame.png" data-image-dimensions="1680x936" data-image-focal-point="0.5,0.5" alt="multi-main frame.png" data-load="false" data-image-id="5ffdedd636d8694701c8c7fd" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1610476648686_5534"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>Raspberry Pi Bracket</strong></h3><p class="" style="white-space:pre-wrap;">The Pi Bracket is meant to be easy to modify without modifying the entire design.  This is a pretty thin part, and gets much of its strength from the Pi 3 or 4 you mount to it.  You can use M2.5 screws and pressure fit them into the bracket.  There’s a notch at the end where the Pi’s micro SD card can be easily slid in and out.</p><p class="" style="white-space:pre-wrap;">The bracket is fit into the main frame and attached “upside down” so that the Pi faces away from the back of the display- this means it’s easy to add Pi hats and other peripherals later without redesigning the entire project.  If you need a larger CPU unit you can still print a smaller version of this part to fit into the frame and simply attach your CPU to the back of the main frame.  Larger compute units usually mean higher thermal load (heat) so be very careful about putting hot components into confined spaces without plenty of ventilation and fans.</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1610476648686_10123"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1680px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:64.46427917480469%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477392612-FEOAWH27FUWL24C19UZQ/multi-pi+adapter.png" alt="multi-pi adapter.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477392612-FEOAWH27FUWL24C19UZQ/multi-pi+adapter.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477392612-FEOAWH27FUWL24C19UZQ/multi-pi+adapter.png" data-image-dimensions="1680x1083" data-image-focal-point="0.5,0.5" alt="multi-pi adapter.png" data-load="false" data-image-id="5ffdef4f36d8694701c8f987" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1610476648686_10418"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>Side Panel Adapter</strong></h3><p class="" style="white-space:pre-wrap;">The Side Panel Adapter is a little different from the Kuiper Deck.  The Kuiper Deck uses an acrylic sheet to not only protect the screen but also join the IO panel to the display frame.  This uses a bracket to connect the IO panel or Side Panel, and allows for easier customization without having to redesign everything.  Here you can see it in light grey:</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1614263364417_180255"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1561px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:72.51761627197266%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614284174605-7TIWDUWOYSIO9VBSHUBW/IO+Side+Panel+Adapter.png" alt="IO Side Panel Adapter.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614284174605-7TIWDUWOYSIO9VBSHUBW/IO+Side+Panel+Adapter.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1614284174605-7TIWDUWOYSIO9VBSHUBW/IO+Side+Panel+Adapter.png" data-image-dimensions="1561x1132" data-image-focal-point="0.5,0.5" alt="IO Side Panel Adapter.png" data-load="false" data-image-id="6038058daea49b4d345cc45a" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614263364417_180556"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>Side Panel: External Terminal</strong></h3><p class="" style="white-space:pre-wrap;">The side panel is a pretty simple concept- it can hold all the standard ports and power like the Raspberry Pi Quick Kit, but can easily be modified to hold whatever switches or items you want.  I’ll include a “blank” in the design files, but the side panel design assumes this is not going in the Parts bin, so it can have the more square edges on it.  You could probably make it much larger, but if you do that consider making the side panel adapter stronger.</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1610476648686_15659"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1784px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:59.585201263427734%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477740653-EQSM1QTAF6I54CD5EETC/multi-side+panel.png" alt="multi-side panel.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477740653-EQSM1QTAF6I54CD5EETC/multi-side+panel.png" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1610477740653-EQSM1QTAF6I54CD5EETC/multi-side+panel.png" data-image-dimensions="1784x1063" data-image-focal-point="0.5,0.5" alt="multi-side panel.png" data-load="false" data-image-id="5ffdf0ab08d5505733ff870d" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1610476648686_15953"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>Working Area and Next Steps</strong></h3><p class="" style="white-space:pre-wrap;">The next step in this design is really up to you.  I have included some raw working areas with different parts in different stages of design.  I’d be curious what you, the reader, make of this.  This is after all, not a product- an idea, something shared.</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Creative process, incomplete prototype: <a href="https://www.tinkercad.com/things/eYkQ9C7gNRH-neat-waasa-tumelo">Tinkercad </a></p></li><li><p class="" style="white-space:pre-wrap;">ARM Terminal Adapter for VESA : <a href="https://www.tinkercad.com/things/ch0yN37jHqz-fantabulous-blorr-vihelmo">Tinkercad</a><br><br><br><br></p></li></ul></div></div></div></div></div></div>
+
+        <footer class="blog-item-footer">
+
+          <div class="footer-meta">
+          
+            <div class="blog-meta-item blog-meta-author"><a href="/home?author=5caa4acd7e697db3c30acc67" class="blog-author-name">Jay Doscher</a></div>
+          
+
+          
+
+          
+          </div>
+
+          <div class="blog-item-actions blog-item-actions--footer">
+            <div class="blog-item-actions-wrapper">
+              
+
+<div class="Share sqs-share-buttons" data-item-identifier="5ffde7c793c5df5a6c8abda8" data-item-path="home/incomplete-cyberdeck">
+
+  <div class="Share-buttons">
+
+    <!--
+
+      Facebook
+
+    --><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fback7.co%2Fhome%2Fincomplete-cyberdeck" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="facebook">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#facebook-icon"></use>
+        </svg><span class="Share-buttons-item-label">Facebook</span><span class="Share-buttons-item-count">0</span>
+      </a><!--
+
+      Twitter
+
+    --><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fback7.co%2Fhome%2Fincomplete-cyberdeck&text=" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="twitter">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#twitter-icon"></use>
+        </svg><span class="Share-buttons-item-label">Twitter</span>
+      </a><!--
+
+      LinkedIn
+
+    --><a href="https://www.linkedin.com/shareArticle?mini=true&source=BACK7&summary=&url=https%3A%2F%2Fback7.co%2Fhome%2Fincomplete-cyberdeck" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="linkedin">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#linkedin-icon"></use>
+        </svg><span class="Share-buttons-item-label">LinkedIn</span><span class="Share-buttons-item-count">0</span>
+      </a><!--
+
+      Reddit
+
+    --><a href="https://www.reddit.com/submit?url=https%3A%2F%2Fback7.co%2Fhome%2Fincomplete-cyberdeck" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="reddit">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <use xlink:href="/universal/svg/social-accounts.svg#reddit-icon"></use>
+        </svg><span class="Share-buttons-item-label">Reddit</span>
+      </a><!--
+
+      Simple Like
+
+    --><a href="#" class="Share-buttons-item Share-buttons-item--like" data-item-identifier="5ffde7c793c5df5a6c8abda8" data-like-count="0" data-service="squarespace-like">
+        <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
+          <g class="svg-icon">
+            <path d="M39.9,37.8c-7.3,4.8-7.7,6.9-7.9,7.8c-0.2-0.9-0.6-3-7.9-7.8c-16-10.6,1.4-25.4,7.9-11.7C38.5,12.4,55.9,27.3,39.9,37.8z"/>
+          </g>
+        </svg><span class="Share-buttons-item-label"><span class="Share-buttons-item-label-count">0</span> Likes</span>
+      </a>
+    
+
+  </div>
+
+</div>
+
+            </div>
+          </div>
+
+          
+            <div class="blog-item-author-profile blog-item-author-profile--footer responsive-margin--top">
+              
+<div class="author-name"><a href="/home?author=5caa4acd7e697db3c30acc67">Jay Doscher</a></div>
+
+
+
+            </div>
+          
+
+        </footer>
+
+        
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <label for="show-comments" title="Show/Hide Comments" class="blog-item-comments-toggle">
+              </label>
+            <div id="blogItemCommentsContent" class="blog-item-comments-content">
+              
+            </div>
+          </div>
+        </section>
+      </div>
+      <aside id="blogItemSidebar" class="blog-item-sidebar">
+        
+          <div class="blog-item-author-profile blog-item-author-profile--sidebar">
+            
+<div class="author-name"><a href="/home?author=5caa4acd7e697db3c30acc67">Jay Doscher</a></div>
+
+
+
+          </div>
+        
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Blog Item Sidebar" data-type="block-field" data-updated-on="1598405161391" id="blogItemSidebarContent"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block newsletter-block sqs-block-newsletter" data-block-type="51" id="block-e24733d564f168014e77"><div class="sqs-block-content">
+
+
+<div class="newsletter-form-wrapper
+  
+  newsletter-form-wrapper--layoutFloat
+  newsletter-form-wrapper--alignLeft
+  
+  "
+  >
+  <form
+     class="newsletter-form"
+     data-form-id="5d7a9ce62c8a3d10da69f7ed"
+     
+     autocomplete="on"
+     method="POST"
+     novalidate
+     onsubmit="return (function (form) {
+    Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+      (new Y.Squarespace.FormSubmit(form)).submit({
+        formId: '5d7a9ce62c8a3d10da69f7ed',
+        collectionId: '',
+        objectName: 'blogItemSidebarContent'
+      });
+    });
+    return false;
+  })(this);">
+    <header class="newsletter-form-header">
+      <h2 class="newsletter-form-header-title">Subscribe</h2>
+      <div class="newsletter-form-header-description"><p class="">Get updates on my projects</p></div>
+    </header>
+    <div class="newsletter-form-body">
+      <div class="newsletter-form-fields-wrapper form-fields" style="vertical-align: middle;">
+        
+        
+          
+            <div id="email-yui_3_17_2_3_1454451851814_6953" class="newsletter-form-field-wrapper form-item field email required" style="vertical-align: bottom;">
+              <label class="newsletter-form-field-label title" for="email-yui_3_17_2_3_1454451851814_6953-field">Email Address</label>
+              <input id="email-yui_3_17_2_3_1454451851814_6953-field" class="newsletter-form-field-element field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" placeholder="Email Address" />
+            </div>
+          
+        
+          
+        
+      </div>
+      <div data-animation-role="button" class="newsletter-form-button-wrapper submit-wrapper" style="vertical-align: middle;">
+        <button
+          class="
+            newsletter-form-button
+            sqs-system-button
+            sqs-editable-button-layout
+            sqs-editable-button-style
+            sqs-editable-button-shape
+            sqs-button-element--primary
+          "
+          type="submit"
+          value="Sign Up"
+        >
+          <span class="newsletter-form-spinner sqs-spin light large"></span>
+          <span class="newsletter-form-button-label">Sign Up</span>
+          <span class="newsletter-form-button-icon"></span>
+        </button>
+      </div>
+      
+        <div class="model"></div>
+        
+      
+    </div>
+    <div class="newsletter-form-footnote"></div>
+    <div class="hidden form-submission-text">Thank you!</div>
+    <div class="hidden form-submission-html" data-submission-html=""></div>
+  </form>
+</div>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.565217391304348" data-block-type="21" id="block-yui_3_17_2_3_1454451851814_14039"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_6_1454451851814_11855"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Instagram</h3><p class="" style="white-space:pre-wrap;"><a href="http://www.instagram.com/back7.co" target="_blank">@back7.co</a></p></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.565217391304348" data-block-type="21" id="block-yui_3_17_2_3_1454451851814_16409"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block instagram-block sqs-block-instagram" data-block-json="&#123;&quot;title&quot;:true,&quot;thumbnail&quot;:true,&quot;excerpt&quot;:true,&quot;pageSize&quot;:12,&quot;filter&quot;:&#123;&#125;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;pageCollectionId&quot;:null,&quot;containingItemId&quot;:null,&quot;enable-search&quot;:false,&quot;search-deprecated-warning&quot;:null,&quot;connectedAccountId&quot;:&quot;5d7e50649122d012b2720ee9&quot;,&quot;enable-search-disabled&quot;:null,&quot;socialCollectionId&quot;:&quot;&quot;,&quot;previewCollectionId&quot;:&quot;&quot;,&quot;status&quot;:&quot;undefined&quot;,&quot;searchId&quot;:&quot;undefined&quot;,&quot;searchTerm&quot;:&quot;&quot;,&quot;refresh&quot;:null,&quot;newWindow&quot;:false,&quot;unsafeSearch&quot;:null,&quot;aspect-ratio&quot;:&quot;square&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5d7e50649122d012b2720ee9&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;lightbox&quot;:false,&quot;padding&quot;:10,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails-per-row&quot;:1,&quot;vSize&quot;:null&#125;" data-block-type="25" id="block-yui_3_17_2_1_1568859911688_9404"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-square
+  sqs-gallery-thumbnails-per-row-1
+  
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  data-async-rendering-enabled="true"
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CFHeDX5DeSu/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-363EWX9ELNRJYGGOUZ80/image-asset.jpeg" alt="Do you want to build the Raspberry Pi Quick Kit yourself but don't have access to a 3D printer?  I'll have a listing by the end of the week for just the 3D printed parts and the screws needed.  Hang in there! I will offer PETG in Grey, Space Grey, Or" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-363EWX9ELNRJYGGOUZ80/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-363EWX9ELNRJYGGOUZ80/image-asset.jpeg" data-image-dimensions="1440x1436" data-image-focal-point="0.5,0.5" alt="Do you want to build the Raspberry Pi Quick Kit yourself but don't have access to a 3D printer?  I'll have a listing by the end of the week for just the 3D printed parts and the screws needed.  Hang in there! I will offer PETG in Grey, Space Grey, Or" data-load="false" data-image-id="5f7486f149c49b5fcb4e2877" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CFCoyQBDJLp/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-BHKXB95C9XI4PEE750P8/image-asset.jpeg" alt="Grey and orange Quick Kits are being printed now &amp;amp; restocked online with ~2 weeks until shipping. Order now if you&amp;rsquo;re still interested in picking one up. I&amp;rsquo;m not making any more carbon fiber versions, but may make a black standard PET" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-BHKXB95C9XI4PEE750P8/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-BHKXB95C9XI4PEE750P8/image-asset.jpeg" data-image-dimensions="1368x1365" data-image-focal-point="0.5,0.5" alt="Grey and orange Quick Kits are being printed now &amp;amp; restocked online with ~2 weeks until shipping. Order now if you&amp;rsquo;re still interested in picking one up. I&amp;rsquo;m not making any more carbon fiber versions, but may make a black standard PET" data-load="false" data-image-id="5f751aaa4bb5771caa09ecc6" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE_1hC7jFyh/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-PZ5PUE4XMVVVSEI8KPMR/image-asset.jpeg" alt="Introducing the Raspberry Pi Quick Kit. No solder, easy assembly, short parts list.  These three are for sale at back7.co/store and help fund future projects.  All of the designs are available in the article at back7.co!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-PZ5PUE4XMVVVSEI8KPMR/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-PZ5PUE4XMVVVSEI8KPMR/image-asset.jpeg" data-image-dimensions="1365x910" data-image-focal-point="0.5,0.5" alt="Introducing the Raspberry Pi Quick Kit. No solder, easy assembly, short parts list.  These three are for sale at back7.co/store and help fund future projects.  All of the designs are available in the article at back7.co!" data-load="false" data-image-id="5f7486f149c49b5fcb4e2878" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE9IoM4A1xo/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1599745172683-NOTRYV81E2CWKKCLY723/image-asset.jpeg" alt="All of the electronics installed.  No soldering this time!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1599745172683-NOTRYV81E2CWKKCLY723/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1599745172683-NOTRYV81E2CWKKCLY723/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="All of the electronics installed.  No soldering this time!" data-load="false" data-image-id="5f5a2c9271b98e18991a0462" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE71p3ZF0K_/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-GR6MOWQG7V6M6ZJGV8OA/image-asset.jpeg" alt="This is the front of one design!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-GR6MOWQG7V6M6ZJGV8OA/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-GR6MOWQG7V6M6ZJGV8OA/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="This is the front of one design!" data-load="false" data-image-id="5f751aaa4bb5771caa09ecc9" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE6j17Fgdww/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-M61GC9FJOQUHLRVCEQOI/image-asset.jpeg" alt="Install the panel mounts and attach the frame using M5 screws.  A full build guide will be available Friday!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-M61GC9FJOQUHLRVCEQOI/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601472256068-M61GC9FJOQUHLRVCEQOI/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="Install the panel mounts and attach the frame using M5 screws.  A full build guide will be available Friday!" data-load="false" data-image-id="5f7486f149c49b5fcb4e287a" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE3_Cyrgq6y/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-OHY3JPSWEEO8UC8W5S7Q/image-asset.jpeg" alt="The display brackets are easy to print too, in about 4 hours at 0.15 layer height.  No supports needed either, and a simple round recess to help you line them up on the frame since they're not reversible." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-OHY3JPSWEEO8UC8W5S7Q/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-OHY3JPSWEEO8UC8W5S7Q/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="The display brackets are easy to print too, in about 4 hours at 0.15 layer height.  No supports needed either, and a simple round recess to help you line them up on the frame since they're not reversible." data-load="false" data-image-id="5f751aaa4bb5771caa09eccb" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CE1aQGJgl_M/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-1O4ENT6TY06TFDZRV0D5/image-asset.jpeg" alt="They key this time is simplicity.  Here's the much easier to print, easier to install, and faster to print main frame.  Source files and a limited quantity for sale available next Friday!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-1O4ENT6TY06TFDZRV0D5/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-1O4ENT6TY06TFDZRV0D5/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="They key this time is simplicity.  Here's the much easier to print, easier to install, and faster to print main frame.  Source files and a limited quantity for sale available next Friday!" data-load="false" data-image-id="5f751aaa4bb5771caa09eccc" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CEtr3wjAMGH/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-63FIVWIRKLXZ2XTFK00N/image-asset.jpeg" alt="Here I am, back up to my old tricks, this time with the diminutive Pelican 1150.  This is a quick project, completing next week!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-63FIVWIRKLXZ2XTFK00N/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-63FIVWIRKLXZ2XTFK00N/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="Here I am, back up to my old tricks, this time with the diminutive Pelican 1150.  This is a quick project, completing next week!" data-load="false" data-image-id="5f751aaa4bb5771caa09eccd" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CErHVKyD1YH/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-3KON6E0FS313G41U3W1S/image-asset.jpeg" alt="Here's the hero shot- I've added some connectors for future GPIO on the board.  You can see the full write-up and get all the designs over at https://back7.co or click the link in my profile." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-3KON6E0FS313G41U3W1S/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-3KON6E0FS313G41U3W1S/image-asset.jpeg" data-image-dimensions="1440x1436" data-image-focal-point="0.5,0.5" alt="Here's the hero shot- I've added some connectors for future GPIO on the board.  You can see the full write-up and get all the designs over at https://back7.co or click the link in my profile." data-load="false" data-image-id="5f751aaa4bb5771caa09ecce" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CEoiRAYHIAO/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-KL0G8ZPFSPKWTWX1MX7P/image-asset.jpeg" alt="Although the center frames did not need updating, I did change the side panels- gone is the backward 7 and in their place are some simple mounts for possible future projects.  You can see the fan controller peeking out the bottom.  This is the back o" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-KL0G8ZPFSPKWTWX1MX7P/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-KL0G8ZPFSPKWTWX1MX7P/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="Although the center frames did not need updating, I did change the side panels- gone is the backward 7 and in their place are some simple mounts for possible future projects.  You can see the fan controller peeking out the bottom.  This is the back o" data-load="false" data-image-id="5f751aaa4bb5771caa09eccf" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/CEl9exznIgV/" 
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-A2OY62ULFY7ZX5BNC0D2/image-asset.jpeg" alt="With this iteration I have removed the monitor mount and replaced simply added this cut top to keep stuff from falling in.  The holes were already in the original design, so no new parts were needed for this update." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-A2OY62ULFY7ZX5BNC0D2/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1601510073186-A2OY62ULFY7ZX5BNC0D2/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="With this iteration I have removed the monitor mount and replaced simply added this cut top to keep stuff from falling in.  The holes were already in the original design, so no new parts were needed for this update." data-load="false" data-image-id="5f751aaa4bb5771caa09ecd0" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-yui_3_17_2_1_1568859911688_9404 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -10px; }
+#block-yui_3_17_2_1_1568859911688_9404 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 10px; margin-bottom: 10px; }
+</style>
+
+
+
+</div></div></div></div></div>
+      </aside>
+
+    </article>
+  </div>
+
+
+
+<section class="blog-item-pagination">
+  <a href="/home/the-utility-pad" class="blog-item-pagination-link blog-item-pagination-link--prev">
+    <div class="blog-item-label">
+      <svg class="prev-icon" viewBox="0 0 50 100">
+        <use xlink:href="/assets/ui-icons.svg#thick-arrow-left-icon"></use>
+      </svg>
+    </div>
+    <span class="pagination-title-wrapper">
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1632938149185-FFH8XEJIH0AU6UHW8RW6/DSC03301.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1632938149185-FFH8XEJIH0AU6UHW8RW6/DSC03301.jpeg" data-image-dimensions="3027x2018" data-image-focal-point="0.5,0.5" alt="The Utility Pad"  />
+      <h2 class="blog-item-pagination-title"><time class="dt-published date-pagination" datetime="2021-09-29" pubdate>Sep 29 </time>The Utility Pad</h2>
+    </span>
+  </a><!--
+  --><a href="/home/introducing-the-kuiper-deck" class="blog-item-pagination-link blog-item-pagination-link--next">
+    <div class="blog-item-label">
+      <svg class="next-icon" viewBox="0 0 50 100">
+        <use xlink:href="/assets/ui-icons.svg#thick-arrow-right-icon"></use>
+      </svg>
+    </div>
+    <span class="pagination-title-wrapper">
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1613513209888-OXONJJ222V12NIB7RPK6/JAY02640.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1613513209888-OXONJJ222V12NIB7RPK6/JAY02640.JPG" data-image-dimensions="2500x3748" data-image-focal-point="0.5,0.5" alt="Introducing the Kuiper Deck"  />
+      <h2 class="blog-item-pagination-title"><time class="dt-published date-pagination" datetime="2021-02-14" pubdate>Feb 14 </time>Introducing the Kuiper Deck</h2>
+    </span>
+  </a>
+</section>
+
+
+
+  
+    
+        <h2 class="related-title responsive-padding--top">Related Posts</h2>
+        <section id="related" class="blog-item-related clear" data-controller="RelatedPostImages">
+          <article id="article-5e06cfc48daefa6cb59e39a2" class="blog-list-item entry entry--list entry--related h-entry hentry author-jay-doscher post-type-text article-index-1 has-main-image" data-item-id="5e06cfc48daefa6cb59e39a2" data-item-title="The A.R.M. Terminal - a Cyberdeck for your desk">
+                <div class="thumbnail-title-wrapper">
+                  
+                  <div class="excerpt-thumb">
+                    <a href="/home/arm-terminal" class="excerpt-image content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1577562483661-B2TPNX58F80QG3GZNB6U/JAY01886.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1577562483661-B2TPNX58F80QG3GZNB6U/JAY01886.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="The A.R.M. Terminal - a Cyberdeck for your desk"  /></a>
+                  </div>
+                  
+                </div>
+
+                <div class="entry-text">
+                  
+                  <header class="entry-header">
+                    
+                    <a href="/home/arm-terminal" class="u-url" rel="bookmark">
+                    
+                    <time class="dt-published date-callout" datetime="2020-01-22" pubdate>
+                      <div class="date-wrapper">
+                        <span class="month">Jan </span><span class="day">22</span>
+                      </div>
+                    </time>
+                    <h2 class="entry-title entry-title--list p-name">
+                      <time class="dt-published date-highlight" datetime="2020-01-22" pubdate>Jan 22 </time>
+                      The A.R.M. Terminal - a Cyberdeck for your desk
+                    </h2>
+                    </a>
+                  </header>
+                  
+                </div>
+
+              </article><article id="article-615c87b3fca7d45d7d02234d" class="blog-list-item entry entry--list entry--related h-entry hentry author-jay-doscher post-type-text article-index-2 featured has-main-image" data-item-id="615c87b3fca7d45d7d02234d" data-item-title="Making a Cyberdeck in 2021 - The Grid Kit">
+                <div class="thumbnail-title-wrapper">
+                  
+                  <div class="excerpt-thumb">
+                    <a href="/home/making-a-cyberdeck-in-2021-grid-kit" class="excerpt-image content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1634308803151-LI2S5IPVGO1DIDPT0276/DSC03307.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1634308803151-LI2S5IPVGO1DIDPT0276/DSC03307.jpg" data-image-dimensions="1200x800" data-image-focal-point="0.5,0.5" alt="Making a Cyberdeck in 2021 - The Grid Kit"  /></a>
+                  </div>
+                  
+                </div>
+
+                <div class="entry-text">
+                  
+                  <header class="entry-header">
+                    
+                    <a href="/home/making-a-cyberdeck-in-2021-grid-kit" class="u-url" rel="bookmark">
+                    
+                    <time class="dt-published date-callout" datetime="2021-10-15" pubdate>
+                      <div class="date-wrapper">
+                        <span class="month">Oct </span><span class="day">15</span>
+                      </div>
+                    </time>
+                    <h2 class="entry-title entry-title--list p-name">
+                      <time class="dt-published date-highlight" datetime="2021-10-15" pubdate>Oct 15 </time>
+                      Making a Cyberdeck in 2021 - The Grid Kit
+                    </h2>
+                    </a>
+                  </header>
+                  
+                </div>
+
+              </article><article id="article-5d7a9da8eb857f5277e8f353" class="blog-list-item entry entry--list entry--related h-entry hentry category-raspberry-pi author-jay-doscher post-type-text article-index-3 has-main-image" data-item-id="5d7a9da8eb857f5277e8f353" data-item-title="Off-Grid Cyberdeck! The Raspberry Pi Recovery Kit">
+                <div class="thumbnail-title-wrapper">
+                  
+                  <div class="excerpt-thumb">
+                    <a href="/home/raspberry-pi-recovery-kit" class="excerpt-image content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1570033300948-FD82VPZ8M9PNIZE9N8OX/JAY01431.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5caa4adb92441be122fcead4/1570033300948-FD82VPZ8M9PNIZE9N8OX/JAY01431.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" alt="Off-Grid Cyberdeck! The Raspberry Pi Recovery Kit"  /></a>
+                  </div>
+                  
+                </div>
+
+                <div class="entry-text">
+                  
+                  <header class="entry-header">
+                    
+                    <a href="/home/raspberry-pi-recovery-kit" class="u-url" rel="bookmark">
+                    
+                    <time class="dt-published date-callout" datetime="2019-11-06" pubdate>
+                      <div class="date-wrapper">
+                        <span class="month">Nov </span><span class="day"> 6</span>
+                      </div>
+                    </time>
+                    <h2 class="entry-title entry-title--list p-name">
+                      <time class="dt-published date-highlight" datetime="2019-11-06" pubdate>Nov  6 </time>
+                      Off-Grid Cyberdeck! The Raspberry Pi Recovery Kit
+                    </h2>
+                    </a>
+                  </header>
+                  
+                </div>
+
+              </article>
+        </section>
+      
+  
+</div>
+
+      </main>
+
+      <footer id="footer" class="site-footer responsive-margin--top responsive-padding--left responsive-padding--right responsive-padding--top responsive-padding--bottom" role="contentinfo">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1569447416076" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_5_1454904737423_30492"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-small social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/back7.co/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_7_1455646771058_9039"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">Powered by <a href="http://www.squarespace.com?channel=word_of_mouth&amp;subchannel=customer&amp;source=footer&amp;campaign=4fd1028ee4b02be53c65dfb3" target="_blank">Squarespace</a></p></div></div></div></div></div>
+        <div id="footerNavWrapper" class="nav-wrapper footer-nav">
+          
+<nav id="mainNavigation" class="main-navigation" role="navigation" data-content-field="navigation">
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="/home">
+          <span>Home</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="https://back7.co/store">
+          <span>Store</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="https://back7.co/buildlog">
+          <span>Build Log</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="/about">
+          <span>About</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+
+    
+      
+      <div class="nav-link--external">
+        <a href="/contact">
+          <span>Contact</span>
+        </a>
+      </div>
+      
+
+    
+
+  
+</nav>
+
+
+        </div>
+      </footer>
+
+    </div>
+
+    <div id="mobileBar" class="mobile-bar mobile-bar--has-cart" data-controller="MobileOffset">
+      <a class="nav-toggle-label nav-toggle-label--mobile flex-item" id="navToggleMobile" data-controller="NavToggle">
+        <svg class="Icon Icon--hamburger nav-toggle-label-icon" viewBox="0 0 26 18">
+          <use class="use--odd" xlink:href="/assets/ui-icons.svg#hamburger-icon--odd"></use>
+          <use class="use--even" xlink:href="/assets/ui-icons.svg#hamburger-icon--even"></use>
+        </svg>
+      </a><!--
+      --><div class="social-ellipsis social-ellipsis--mobile flex-item" id="socialEllipsisMobile" data-controller="SocialToggle">
+        <svg class="ellipsis-icon" viewBox="0 0 25 6">
+          <use xlink:href="/assets/ui-icons.svg#ellipsis-icon"></use>
+        </svg>
+        <svg class="Icon Icon--close social-close-icon" viewBox="0 0 18 18">
+          <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+        </svg>
+      </div><!--
+      --><div class="search-cart--mobile flex-item">
+        <a href="/search" rel="search" class="header-search header-search--mobile" data-controller="SearchToggle">
+          <svg class="Icon Icon--search search-icon" viewBox="0 0 20 20">
+            <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+          </svg>
+          <svg class="Icon Icon--close search-close-icon" viewBox="0 0 18 18">
+            <use xlink:href="/assets/ui-icons.svg#close-icon-line"></use>
+          </svg>
+        </a>
+        
+        <a href="/cart" class="sqs-custom-cart custom-cart mobile-cart">
+          <div class="custom-cart-bag">
+            <svg class="Icon Icon--bag custom-cart-bag-icon" viewBox="0 0 34 38">
+              <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon--odd"></use>
+              <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon--even"></use>
+            </svg>
+            <span class="sqs-cart-quantity">0</span>
+          </div>
+        </a>
+      </div><!--
+      -->
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/5caa4adb92441be122fcead4/0/scripts/site-bundle.js" type="text/javascript"></script>
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+
+  </body>
+</html>
